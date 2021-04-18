@@ -16,7 +16,7 @@ def main():
            record_word_cnt(line.strip().split(' '), bag_of_words)
            cnt += 1
    sorted_words = order_bag_of_words(bag_of_words, desc=True)
-   print("Most frequent 10 words {}".format(sorted_words[:10]))
+   print("Most frequent 10 words {}".format(sorted_words[:1000]))
   
 def order_bag_of_words(bag_of_words, desc=False):
    words = [(word, cnt) for word, cnt in bag_of_words.items()]
