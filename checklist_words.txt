@@ -1,0 +1,123 @@
+line 0 contents # COPPA 6 Step Compliance Checklist
+
+line 1 contents 
+
+line 2 contents ### Step 1: Determine if Your Company is a Website or Online Service that Collects Personal Information from Kids Under 13.
+
+line 3 contents > Where personal information has been defined as any of the following
+
+line 4 contents - [ ] full name;
+
+line 5 contents - [ ] home or other physical address, including street name and city or town;
+
+line 6 contents - [ ] online contact information like an email address or other identifier that permits someone to contact a person directly — for example, an IM identifier, VoIP identifier, or video chat identifier;
+
+line 7 contents - [ ] screen name or user name where it functions as online contact information;
+
+line 8 contents - [ ] telephone number;
+
+line 9 contents - [ ] Social Security number;
+
+line 10 contents - [ ] a persistent identifier that can be used to recognize a user over time and across different sites, including a cookie number, an IP address, a processor or device serial number, or a unique device identifier;
+
+line 11 contents - [ ] a photo, video, or audio file containing a child’s image or voice;
+
+line 12 contents - [ ] geolocation information sufficient to identify a street name and city or town; or
+
+line 13 contents - [ ] other information about the child or parent that is collected from the child and is combined with one of these identifiers.
+
+line 14 contents > Where data collection can be seen as any of the following
+
+line 15 contents - [ ] request, prompt, or encourage the submission of information, even if it’s optional;
+
+line 16 contents - [ ] let information be made publicly available (for example, with an open chat or posting function) unless you take reasonable measures to delete all or virtually all personal information before postings are public and delete all information from your records; or
+
+line 17 contents - [ ] passively track a child online.
+
+line 18 contents ### Step 2: Post a Privacy Policy that Complies with COPPA.
+
+line 19 contents > To comply with COPPA, your privacy policy should be clear and easy to read. It must contain the following
+
+line 20 contents - [ ] A list of all operators collecting personal information.
+
+line 21 contents   - [ ] the types of personal information collected from children (for example, name, address, email address, hobbies, etc.);
+
+line 22 contents   - [ ] how the personal information is collected — directly from the child or passively, say, through cookies;
+
+line 23 contents   - [ ] how the personal information will be used (for example, for marketing to the child, notifying contest winners, or allowing the child to make information publicly available through a chat room); and
+
+line 24 contents   - [ ] whether you disclose personal information collected from kids to third parties. If you do, your privacy policy must list the types of businesses you disclose information to (for example, ad networks) and how they use the information.
+
+line 25 contents - [ ] A description of the personal information collected and how it’s used.
+
+line 26 contents - [ ] A description of parental rights.
+
+line 27 contents   - [ ] that you won’t require a child to disclose more information than is reasonably necessary to participate in an activity;
+
+line 28 contents   - [ ] that they can review their child’s personal information, direct you to delete it, and refuse to allow any further collection or use of the child’s information;
+
+line 29 contents   - [ ] that they can agree to the collection and use of their child’s information, but still not allow disclosure to third parties unless that’s part of the service (for example, social networking); and
+
+line 30 contents   - [ ] the procedures to follow to exercise their rights.
+
+line 31 contents 
+
+line 32 contents ### Step 3: Notify Parents Directly Before Collecting Personal Information from Their Kids. [See Exceptions](https://www.ftc.gov/tips-advice/business-center/guidance/childrens-online-privacy-protection-rule-six-step-compliance#chart)
+
+line 33 contents - [ ] that you collected their online contact information for the purpose of getting their consent;
+
+line 34 contents - [ ] that you want to collect personal information from their child;
+
+line 35 contents - [ ] that their consent is required for the collection, use, and disclosure of the information;
+
+line 36 contents - [ ] the specific personal information you want to collect and how it might be disclosed to others;
+
+line 37 contents - [ ] a link to your online privacy policy;
+
+line 38 contents - [ ] how the parent can give their consent; and
+
+line 39 contents - [ ] that if the parent doesn’t consent within a reasonable time, you’ll delete the parent’s online contact information from your records.
+
+line 40 contents 
+
+line 41 contents ### Step 4: Get Parents’ Verifiable Consent Before Collecting Personal Information from Their Kids.
+
+line 42 contents > 
+
+line 43 contents - [ ] sign a consent form and send it back to you via fax, mail, or electronic scan;
+
+line 44 contents - [ ] use a credit card, debit card, or other online payment system that provides notification of each separate transaction to the account holder;
+
+line 45 contents - [ ] call a toll-free number staffed by trained personnel;
+
+line 46 contents - [ ] connect to trained personnel via a video conference;
+
+line 47 contents - [ ] provide a copy of a form of government issued ID that you check against a database, as long as you delete the identification from your records when you finish the verification process;
+
+line 48 contents - [ ] answer a series of knowledge-based challenge questions that would be difficult for someone other than the parent to answer; or
+
+line 49 contents - [ ] verify a picture of a driver's license of other photo ID submitted by the parent and then comparing that photo to a second photo submitted by the parent, using facial recognition technology.
+
+line 50 contents ### Step 5: Honor Parents’ Ongoing Rights with Respect to Personal Information Collected from Their Kids.
+
+line 51 contents - [ ] give them a way to review the personal information collected from their child;
+
+line 52 contents - [ ] give them a way to revoke their consent and refuse the further use or collection of personal information from their child; and
+
+line 53 contents - [ ] delete their child’s personal information.
+
+line 54 contents 
+
+line 55 contents ### Step 6: Implement Reasonable Procedures to Protect the Security of Kids’ Personal Information.
+
+line 56 contents > Steps to ensure better data management practices.
+
+line 57 contents - [ ] Minimize what you collect in the first place. 
+
+line 58 contents - [ ] Take reasonable steps to release personal information only to service providers and third parties capable of maintaining its confidentiality, security, and integrity. 
+
+line 59 contents - [ ] Get assurances they’ll live up to those responsibilities. Hold on to personal information only as long as is reasonably necessary for the purpose for which it was collected. 
+
+line 60 contents - [ ] Securely dispose of it once you no longer have a legitimate reason for retaining it.
+
+Most frequent 1000 words [('-', 45), ('[', 45), (']', 45), ('the', 37), ('to', 36), ('a', 33), ('information', 27), ('or', 24), ('of', 24), ('personal', 21), ('and', 21), ('that', 16), ('you', 15), ('their', 15), ('from', 14), ('for', 8), ('collected', 8), ('step', 7), ('your', 7), ('is', 7), ('online', 7), ('as', 7), ('be', 7), ('###', 6), ('other', 6), ('example,', 6), ('it', 6), ('child', 6), ('delete', 6), ('how', 6), ('>', 5), ('contact', 5), ('an', 5), ('can', 5), ('child’s', 5), ('parent', 5), ('with', 5), ('(for', 5), ('use', 5), ('consent', 5), ('if', 4), ('address,', 4), ('name', 4), ('collection', 4), ('reasonable', 4), ('all', 4), ('privacy', 4), ('information.', 4), ('service', 3), ('where', 3), ('any', 3), ('following', 3), ('directly', 3), ('chat', 3), ('information;', 3), ('information,', 3), ('before', 3), ('policy', 3), ('collecting', 3), ('disclose', 3), ('third', 3), ('they', 3), ('kids.', 3), ('collect', 3), ('child;', 3), ('give', 3), ('by', 3), ('photo', 3), ('kids', 2), ('including', 2), ('street', 2), ('city', 2), ('town;', 2), ('email', 2), ('identifier', 2), ('someone', 2), ('—', 2), ('identifier,', 2), ('video', 2), ('identifier;', 2), ('user', 2), ('number;', 2), ('social', 2), ('security', 2), ('used', 2), ('number,', 2), ('device', 2), ('data', 2), ('it’s', 2), ('publicly', 2), ('available', 2), ('unless', 2), ('take', 2), ('must', 2), ('list', 2), ('types', 2), ('through', 2), ('description', 2), ('rights.', 2), ('than', 2), ('reasonably', 2), ('necessary', 2), ('in', 2), ('review', 2), ('refuse', 2), ('allow', 2), ('further', 2), ('disclosure', 2), ('parties', 2), ('procedures', 2), ('purpose', 2), ('consent;', 2), ('want', 2), ('get', 2), ('parents’', 2), ('form', 2), ('via', 2), ('card,', 2), ('trained', 2), ('id', 2), ('long', 2), ('submitted', 2), ('them', 2), ('way', 2), ('steps', 2), ('only', 2), ('#', 1), ('coppa', 1), ('6', 1), ('compliance', 1), ('checklist', 1), ('1:', 1), ('determine', 1), ('company', 1), ('website', 1), ('collects', 1), ('under', 1), ('13.', 1), ('has', 1), ('been', 1), ('defined', 1), ('full', 1), ('name;', 1), ('home', 1), ('physical', 1), ('like', 1), ('address', 1), ('permits', 1), ('person', 1), ('im', 1), ('voip', 1), ('screen', 1), ('functions', 1), ('telephone', 1), ('persistent', 1), ('recognize', 1), ('over', 1), ('time', 1), ('across', 1), ('different', 1), ('sites,', 1), ('cookie', 1), ('ip', 1), ('processor', 1), ('serial', 1), ('unique', 1), ('photo,', 1), ('video,', 1), ('audio', 1), ('file', 1), ('containing', 1), ('image', 1), ('voice;', 1), ('geolocation', 1), ('sufficient', 1), ('identify', 1), ('about', 1), ('combined', 1), ('one', 1), ('these', 1), ('identifiers.', 1), ('seen', 1), ('request,', 1), ('prompt,', 1), ('encourage', 1), ('submission', 1), ('even', 1), ('optional;', 1), ('let', 1), ('made', 1), ('open', 1), ('posting', 1), ('function)', 1), ('measures', 1), ('virtually', 1), ('postings', 1), ('are', 1), ('public', 1), ('records;', 1), ('passively', 1), ('track', 1), ('online.', 1), ('2:', 1), ('post', 1), ('complies', 1), ('coppa.', 1), ('comply', 1), ('coppa,', 1), ('should', 1), ('clear', 1), ('easy', 1), ('read.', 1), ('contain', 1), ('operators', 1), ('children', 1), ('name,', 1), ('hobbies,', 1), ('etc.);', 1), ('passively,', 1), ('say,', 1), ('cookies;', 1), ('will', 1), ('marketing', 1), ('child,', 1), ('notifying', 1), ('contest', 1), ('winners,', 1), ('allowing', 1), ('make', 1), ('room);', 1), ('whether', 1), ('parties.', 1), ('do,', 1), ('businesses', 1), ('ad', 1), ('networks)', 1), ('used.', 1), ('parental', 1), ('won’t', 1), ('require', 1), ('more', 1), ('participate', 1), ('activity;', 1), ('direct', 1), ('it,', 1), ('agree', 1), ('but', 1), ('still', 1), ('not', 1), ('that’s', 1), ('part', 1), ('networking);', 1), ('follow', 1), ('exercise', 1), ('3:', 1), ('notify', 1), ('parents', 1), ('[see', 1), ('exceptions](https://www.ftc.gov/tips-advice/business-center/guidance/childrens-online-privacy-protection-rule-six-step-compliance#chart)', 1), ('getting', 1), ('required', 1), ('collection,', 1), ('use,', 1), ('specific', 1), ('might', 1), ('disclosed', 1), ('others;', 1), ('link', 1), ('policy;', 1), ('doesn’t', 1), ('within', 1), ('time,', 1), ('you’ll', 1), ('parent’s', 1), ('records.', 1), ('4:', 1), ('verifiable', 1), ('sign', 1), ('send', 1), ('back', 1), ('fax,', 1), ('mail,', 1), ('electronic', 1), ('scan;', 1), ('credit', 1), ('debit', 1), ('payment', 1), ('system', 1), ('provides', 1), ('notification', 1), ('each', 1), ('separate', 1), ('transaction', 1), ('account', 1), ('holder;', 1), ('call', 1), ('toll-free', 1), ('number', 1), ('staffed', 1), ('personnel;', 1), ('connect', 1), ('personnel', 1), ('conference;', 1), ('provide', 1), ('copy', 1), ('government', 1), ('issued', 1), ('check', 1), ('against', 1), ('database,', 1), ('identification', 1), ('records', 1), ('when', 1), ('finish', 1), ('verification', 1), ('process;', 1), ('answer', 1), ('series', 1), ('knowledge-based', 1), ('challenge', 1), ('questions', 1), ('would', 1), ('difficult', 1), ('answer;', 1), ('verify', 1), ('picture', 1), ("driver's", 1), ('license', 1), ('then', 1), ('comparing', 1), ('second', 1), ('parent,', 1), ('using', 1), ('facial', 1), ('recognition', 1), ('technology.', 1), ('5:', 1), ('honor', 1), ('ongoing', 1), ('rights', 1), ('respect', 1), ('revoke', 1), ('6:', 1), ('implement', 1), ('protect', 1), ('kids’', 1), ('ensure', 1), ('better', 1), ('management', 1), ('practices.', 1), ('minimize', 1), ('what', 1), ('first', 1), ('place.', 1), ('release', 1), ('providers', 1), ('capable', 1), ('maintaining', 1), ('its', 1), ('confidentiality,', 1), ('security,', 1), ('integrity.', 1), ('assurances', 1), ('they’ll', 1), ('live', 1), ('up', 1), ('those', 1), ('responsibilities.', 1), ('hold', 1), ('on', 1), ('which', 1), ('was', 1), ('collected.', 1), ('securely', 1), ('dispose', 1), ('once', 1), ('no', 1), ('longer', 1), ('have', 1), ('legitimate', 1), ('reason', 1), ('retaining', 1), ('it.', 1)]

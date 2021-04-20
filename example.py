@@ -1,5 +1,6 @@
 import sys
 import os
+from nltk.corpus import wordnet as wn
 
 def main():
    filepath = sys.argv[1]
@@ -9,6 +10,7 @@ def main():
        sys.exit()
   
    bag_of_words = {}
+   bag_of_synsets = {}
    with open(filepath) as fp:
        cnt = 0
        for line in fp:
@@ -16,7 +18,11 @@ def main():
            record_word_cnt(line.strip().split(' '), bag_of_words)
            cnt += 1
    sorted_words = order_bag_of_words(bag_of_words, desc=True)
-   print("Most frequent 10 words {}".format(sorted_words[:1000]))
+   print("Most frequent 1000 words {}".format(sorted_words[1:]))
+   for word in sorted_words:
+       print(word[0])
+       bag_of_synsets[word] = wn.synsets(word[0])
+   print(bag_of_synsets)
   
 def order_bag_of_words(bag_of_words, desc=False):
    words = [(word, cnt) for word, cnt in bag_of_words.items()]

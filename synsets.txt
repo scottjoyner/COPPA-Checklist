@@ -1,0 +1,507 @@
+line 0 contents # COPPA 6 Step Compliance Checklist
+
+line 1 contents 
+
+line 2 contents ### Step 1: Determine if Your Company is a Website or Online Service that Collects Personal Information from Kids Under 13.
+
+line 3 contents > Where personal information has been defined as any of the following
+
+line 4 contents - [ ] full name;
+
+line 5 contents - [ ] home or other physical address, including street name and city or town;
+
+line 6 contents - [ ] online contact information like an email address or other identifier that permits someone to contact a person directly — for example, an IM identifier, VoIP identifier, or video chat identifier;
+
+line 7 contents - [ ] screen name or user name where it functions as online contact information;
+
+line 8 contents - [ ] telephone number;
+
+line 9 contents - [ ] Social Security number;
+
+line 10 contents - [ ] a persistent identifier that can be used to recognize a user over time and across different sites, including a cookie number, an IP address, a processor or device serial number, or a unique device identifier;
+
+line 11 contents - [ ] a photo, video, or audio file containing a child’s image or voice;
+
+line 12 contents - [ ] geolocation information sufficient to identify a street name and city or town; or
+
+line 13 contents - [ ] other information about the child or parent that is collected from the child and is combined with one of these identifiers.
+
+line 14 contents > Where data collection can be seen as any of the following
+
+line 15 contents - [ ] request, prompt, or encourage the submission of information, even if it’s optional;
+
+line 16 contents - [ ] let information be made publicly available (for example, with an open chat or posting function) unless you take reasonable measures to delete all or virtually all personal information before postings are public and delete all information from your records; or
+
+line 17 contents - [ ] passively track a child online.
+
+line 18 contents ### Step 2: Post a Privacy Policy that Complies with COPPA.
+
+line 19 contents > To comply with COPPA, your privacy policy should be clear and easy to read. It must contain the following
+
+line 20 contents - [ ] A list of all operators collecting personal information.
+
+line 21 contents   - [ ] the types of personal information collected from children (for example, name, address, email address, hobbies, etc.);
+
+line 22 contents   - [ ] how the personal information is collected — directly from the child or passively, say, through cookies;
+
+line 23 contents   - [ ] how the personal information will be used (for example, for marketing to the child, notifying contest winners, or allowing the child to make information publicly available through a chat room); and
+
+line 24 contents   - [ ] whether you disclose personal information collected from kids to third parties. If you do, your privacy policy must list the types of businesses you disclose information to (for example, ad networks) and how they use the information.
+
+line 25 contents - [ ] A description of the personal information collected and how it’s used.
+
+line 26 contents - [ ] A description of parental rights.
+
+line 27 contents   - [ ] that you won’t require a child to disclose more information than is reasonably necessary to participate in an activity;
+
+line 28 contents   - [ ] that they can review their child’s personal information, direct you to delete it, and refuse to allow any further collection or use of the child’s information;
+
+line 29 contents   - [ ] that they can agree to the collection and use of their child’s information, but still not allow disclosure to third parties unless that’s part of the service (for example, social networking); and
+
+line 30 contents   - [ ] the procedures to follow to exercise their rights.
+
+line 31 contents 
+
+line 32 contents ### Step 3: Notify Parents Directly Before Collecting Personal Information from Their Kids. [See Exceptions](https://www.ftc.gov/tips-advice/business-center/guidance/childrens-online-privacy-protection-rule-six-step-compliance#chart)
+
+line 33 contents - [ ] that you collected their online contact information for the purpose of getting their consent;
+
+line 34 contents - [ ] that you want to collect personal information from their child;
+
+line 35 contents - [ ] that their consent is required for the collection, use, and disclosure of the information;
+
+line 36 contents - [ ] the specific personal information you want to collect and how it might be disclosed to others;
+
+line 37 contents - [ ] a link to your online privacy policy;
+
+line 38 contents - [ ] how the parent can give their consent; and
+
+line 39 contents - [ ] that if the parent doesn’t consent within a reasonable time, you’ll delete the parent’s online contact information from your records.
+
+line 40 contents 
+
+line 41 contents ### Step 4: Get Parents’ Verifiable Consent Before Collecting Personal Information from Their Kids.
+
+line 42 contents > 
+
+line 43 contents - [ ] sign a consent form and send it back to you via fax, mail, or electronic scan;
+
+line 44 contents - [ ] use a credit card, debit card, or other online payment system that provides notification of each separate transaction to the account holder;
+
+line 45 contents - [ ] call a toll-free number staffed by trained personnel;
+
+line 46 contents - [ ] connect to trained personnel via a video conference;
+
+line 47 contents - [ ] provide a copy of a form of government issued ID that you check against a database, as long as you delete the identification from your records when you finish the verification process;
+
+line 48 contents - [ ] answer a series of knowledge-based challenge questions that would be difficult for someone other than the parent to answer; or
+
+line 49 contents - [ ] verify a picture of a driver's license of other photo ID submitted by the parent and then comparing that photo to a second photo submitted by the parent, using facial recognition technology.
+
+line 50 contents ### Step 5: Honor Parents’ Ongoing Rights with Respect to Personal Information Collected from Their Kids.
+
+line 51 contents - [ ] give them a way to review the personal information collected from their child;
+
+line 52 contents - [ ] give them a way to revoke their consent and refuse the further use or collection of personal information from their child; and
+
+line 53 contents - [ ] delete their child’s personal information.
+
+line 54 contents 
+
+line 55 contents ### Step 6: Implement Reasonable Procedures to Protect the Security of Kids’ Personal Information.
+
+line 56 contents > Steps to ensure better data management practices.
+
+line 57 contents - [ ] Minimize what you collect in the first place. 
+
+line 58 contents - [ ] Take reasonable steps to release personal information only to service providers and third parties capable of maintaining its confidentiality, security, and integrity. 
+
+line 59 contents - [ ] Get assurances they’ll live up to those responsibilities. Hold on to personal information only as long as is reasonably necessary for the purpose for which it was collected. 
+
+line 60 contents - [ ] Securely dispose of it once you no longer have a legitimate reason for retaining it.
+
+Most frequent 1000 words [('[', 45), (']', 45), ('the', 37), ('to', 36), ('a', 33), ('information', 27), ('or', 24), ('of', 24), ('personal', 21), ('and', 21), ('that', 16), ('you', 15), ('their', 15), ('from', 14), ('for', 8), ('collected', 8), ('step', 7), ('your', 7), ('is', 7), ('online', 7), ('as', 7), ('be', 7), ('###', 6), ('other', 6), ('example,', 6), ('it', 6), ('child', 6), ('delete', 6), ('how', 6), ('>', 5), ('contact', 5), ('an', 5), ('can', 5), ('child’s', 5), ('parent', 5), ('with', 5), ('(for', 5), ('use', 5), ('consent', 5), ('if', 4), ('address,', 4), ('name', 4), ('collection', 4), ('reasonable', 4), ('all', 4), ('privacy', 4), ('information.', 4), ('service', 3), ('where', 3), ('any', 3), ('following', 3), ('directly', 3), ('chat', 3), ('information;', 3), ('information,', 3), ('before', 3), ('policy', 3), ('collecting', 3), ('disclose', 3), ('third', 3), ('they', 3), ('kids.', 3), ('collect', 3), ('child;', 3), ('give', 3), ('by', 3), ('photo', 3), ('kids', 2), ('including', 2), ('street', 2), ('city', 2), ('town;', 2), ('email', 2), ('identifier', 2), ('someone', 2), ('—', 2), ('identifier,', 2), ('video', 2), ('identifier;', 2), ('user', 2), ('number;', 2), ('social', 2), ('security', 2), ('used', 2), ('number,', 2), ('device', 2), ('data', 2), ('it’s', 2), ('publicly', 2), ('available', 2), ('unless', 2), ('take', 2), ('must', 2), ('list', 2), ('types', 2), ('through', 2), ('description', 2), ('rights.', 2), ('than', 2), ('reasonably', 2), ('necessary', 2), ('in', 2), ('review', 2), ('refuse', 2), ('allow', 2), ('further', 2), ('disclosure', 2), ('parties', 2), ('procedures', 2), ('purpose', 2), ('consent;', 2), ('want', 2), ('get', 2), ('parents’', 2), ('form', 2), ('via', 2), ('card,', 2), ('trained', 2), ('id', 2), ('long', 2), ('submitted', 2), ('them', 2), ('way', 2), ('steps', 2), ('only', 2), ('#', 1), ('coppa', 1), ('6', 1), ('compliance', 1), ('checklist', 1), ('1:', 1), ('determine', 1), ('company', 1), ('website', 1), ('collects', 1), ('under', 1), ('13.', 1), ('has', 1), ('been', 1), ('defined', 1), ('full', 1), ('name;', 1), ('home', 1), ('physical', 1), ('like', 1), ('address', 1), ('permits', 1), ('person', 1), ('im', 1), ('voip', 1), ('screen', 1), ('functions', 1), ('telephone', 1), ('persistent', 1), ('recognize', 1), ('over', 1), ('time', 1), ('across', 1), ('different', 1), ('sites,', 1), ('cookie', 1), ('ip', 1), ('processor', 1), ('serial', 1), ('unique', 1), ('photo,', 1), ('video,', 1), ('audio', 1), ('file', 1), ('containing', 1), ('image', 1), ('voice;', 1), ('geolocation', 1), ('sufficient', 1), ('identify', 1), ('about', 1), ('combined', 1), ('one', 1), ('these', 1), ('identifiers.', 1), ('seen', 1), ('request,', 1), ('prompt,', 1), ('encourage', 1), ('submission', 1), ('even', 1), ('optional;', 1), ('let', 1), ('made', 1), ('open', 1), ('posting', 1), ('function)', 1), ('measures', 1), ('virtually', 1), ('postings', 1), ('are', 1), ('public', 1), ('records;', 1), ('passively', 1), ('track', 1), ('online.', 1), ('2:', 1), ('post', 1), ('complies', 1), ('coppa.', 1), ('comply', 1), ('coppa,', 1), ('should', 1), ('clear', 1), ('easy', 1), ('read.', 1), ('contain', 1), ('operators', 1), ('children', 1), ('name,', 1), ('hobbies,', 1), ('etc.);', 1), ('passively,', 1), ('say,', 1), ('cookies;', 1), ('will', 1), ('marketing', 1), ('child,', 1), ('notifying', 1), ('contest', 1), ('winners,', 1), ('allowing', 1), ('make', 1), ('room);', 1), ('whether', 1), ('parties.', 1), ('do,', 1), ('businesses', 1), ('ad', 1), ('networks)', 1), ('used.', 1), ('parental', 1), ('won’t', 1), ('require', 1), ('more', 1), ('participate', 1), ('activity;', 1), ('direct', 1), ('it,', 1), ('agree', 1), ('but', 1), ('still', 1), ('not', 1), ('that’s', 1), ('part', 1), ('networking);', 1), ('follow', 1), ('exercise', 1), ('3:', 1), ('notify', 1), ('parents', 1), ('[see', 1), ('exceptions](https://www.ftc.gov/tips-advice/business-center/guidance/childrens-online-privacy-protection-rule-six-step-compliance#chart)', 1), ('getting', 1), ('required', 1), ('collection,', 1), ('use,', 1), ('specific', 1), ('might', 1), ('disclosed', 1), ('others;', 1), ('link', 1), ('policy;', 1), ('doesn’t', 1), ('within', 1), ('time,', 1), ('you’ll', 1), ('parent’s', 1), ('records.', 1), ('4:', 1), ('verifiable', 1), ('sign', 1), ('send', 1), ('back', 1), ('fax,', 1), ('mail,', 1), ('electronic', 1), ('scan;', 1), ('credit', 1), ('debit', 1), ('payment', 1), ('system', 1), ('provides', 1), ('notification', 1), ('each', 1), ('separate', 1), ('transaction', 1), ('account', 1), ('holder;', 1), ('call', 1), ('toll-free', 1), ('number', 1), ('staffed', 1), ('personnel;', 1), ('connect', 1), ('personnel', 1), ('conference;', 1), ('provide', 1), ('copy', 1), ('government', 1), ('issued', 1), ('check', 1), ('against', 1), ('database,', 1), ('identification', 1), ('records', 1), ('when', 1), ('finish', 1), ('verification', 1), ('process;', 1), ('answer', 1), ('series', 1), ('knowledge-based', 1), ('challenge', 1), ('questions', 1), ('would', 1), ('difficult', 1), ('answer;', 1), ('verify', 1), ('picture', 1), ("driver's", 1), ('license', 1), ('then', 1), ('comparing', 1), ('second', 1), ('parent,', 1), ('using', 1), ('facial', 1), ('recognition', 1), ('technology.', 1), ('5:', 1), ('honor', 1), ('ongoing', 1), ('rights', 1), ('respect', 1), ('revoke', 1), ('6:', 1), ('implement', 1), ('protect', 1), ('kids’', 1), ('ensure', 1), ('better', 1), ('management', 1), ('practices.', 1), ('minimize', 1), ('what', 1), ('first', 1), ('place.', 1), ('release', 1), ('providers', 1), ('capable', 1), ('maintaining', 1), ('its', 1), ('confidentiality,', 1), ('security,', 1), ('integrity.', 1), ('assurances', 1), ('they’ll', 1), ('live', 1), ('up', 1), ('those', 1), ('responsibilities.', 1), ('hold', 1), ('on', 1), ('which', 1), ('was', 1), ('collected.', 1), ('securely', 1), ('dispose', 1), ('once', 1), ('no', 1), ('longer', 1), ('have', 1), ('legitimate', 1), ('reason', 1), ('retaining', 1), ('it.', 1)]
+-
+[
+]
+the
+to
+a
+information
+or
+of
+personal
+and
+that
+you
+their
+from
+for
+collected
+step
+your
+is
+online
+as
+be
+###
+other
+example,
+it
+child
+delete
+how
+>
+contact
+an
+can
+child’s
+parent
+with
+(for
+use
+consent
+if
+address,
+name
+collection
+reasonable
+all
+privacy
+information.
+service
+where
+any
+following
+directly
+chat
+information;
+information,
+before
+policy
+collecting
+disclose
+third
+they
+kids.
+collect
+child;
+give
+by
+photo
+kids
+including
+street
+city
+town;
+email
+identifier
+someone
+—
+identifier,
+video
+identifier;
+user
+number;
+social
+security
+used
+number,
+device
+data
+it’s
+publicly
+available
+unless
+take
+must
+list
+types
+through
+description
+rights.
+than
+reasonably
+necessary
+in
+review
+refuse
+allow
+further
+disclosure
+parties
+procedures
+purpose
+consent;
+want
+get
+parents’
+form
+via
+card,
+trained
+id
+long
+submitted
+them
+way
+steps
+only
+#
+coppa
+6
+compliance
+checklist
+1:
+determine
+company
+website
+collects
+under
+13.
+has
+been
+defined
+full
+name;
+home
+physical
+like
+address
+permits
+person
+im
+voip
+screen
+functions
+telephone
+persistent
+recognize
+over
+time
+across
+different
+sites,
+cookie
+ip
+processor
+serial
+unique
+photo,
+video,
+audio
+file
+containing
+image
+voice;
+geolocation
+sufficient
+identify
+about
+combined
+one
+these
+identifiers.
+seen
+request,
+prompt,
+encourage
+submission
+even
+optional;
+let
+made
+open
+posting
+function)
+measures
+virtually
+postings
+are
+public
+records;
+passively
+track
+online.
+2:
+post
+complies
+coppa.
+comply
+coppa,
+should
+clear
+easy
+read.
+contain
+operators
+children
+name,
+hobbies,
+etc.);
+passively,
+say,
+cookies;
+will
+marketing
+child,
+notifying
+contest
+winners,
+allowing
+make
+room);
+whether
+parties.
+do,
+businesses
+ad
+networks)
+used.
+parental
+won’t
+require
+more
+participate
+activity;
+direct
+it,
+agree
+but
+still
+not
+that’s
+part
+networking);
+follow
+exercise
+3:
+notify
+parents
+[see
+exceptions](https://www.ftc.gov/tips-advice/business-center/guidance/childrens-online-privacy-protection-rule-six-step-compliance#chart)
+getting
+required
+collection,
+use,
+specific
+might
+disclosed
+others;
+link
+policy;
+doesn’t
+within
+time,
+you’ll
+parent’s
+records.
+4:
+verifiable
+sign
+send
+back
+fax,
+mail,
+electronic
+scan;
+credit
+debit
+payment
+system
+provides
+notification
+each
+separate
+transaction
+account
+holder;
+call
+toll-free
+number
+staffed
+personnel;
+connect
+personnel
+conference;
+provide
+copy
+government
+issued
+check
+against
+database,
+identification
+records
+when
+finish
+verification
+process;
+answer
+series
+knowledge-based
+challenge
+questions
+would
+difficult
+answer;
+verify
+picture
+driver's
+license
+then
+comparing
+second
+parent,
+using
+facial
+recognition
+technology.
+5:
+honor
+ongoing
+rights
+respect
+revoke
+6:
+implement
+protect
+kids’
+ensure
+better
+management
+practices.
+minimize
+what
+first
+place.
+release
+providers
+capable
+maintaining
+its
+confidentiality,
+security,
+integrity.
+assurances
+they’ll
+live
+up
+those
+responsibilities.
+hold
+on
+which
+was
+collected.
+securely
+dispose
+once
+no
+longer
+have
+legitimate
+reason
+retaining
+it.
+{('-', 45): [], ('[', 45): [], (']', 45): [], ('the', 37): [], ('to', 36): [], ('a', 33): [Synset('angstrom.n.01'), Synset('vitamin_a.n.01'), Synset('deoxyadenosine_monophosphate.n.01'), Synset('adenine.n.01'), Synset('ampere.n.02'), Synset('a.n.06'), Synset('a.n.07')], ('information', 27): [Synset('information.n.01'), Synset('information.n.02'), Synset('information.n.03'), Synset('data.n.01'), Synset('information.n.05')], ('or', 24): [Synset('oregon.n.01'), Synset('operating_room.n.01')], ('of', 24): [], ('personal', 21): [Synset('personal.n.01'), Synset('personal.a.01'), Synset('personal.s.02'), Synset('personal.a.03'), Synset('personal.s.04'), Synset('personal.a.05')], ('and', 21): [], ('that', 16): [], ('you', 15): [], ('their', 15): [], ('from', 14): [], ('for', 8): [], ('collected', 8): [Synset('roll_up.v.02'), Synset('collect.v.02'), Synset('gather.v.01'), Synset('collect.v.04'), Synset('collect.v.05'), Synset('collected.a.01'), Synset('collected.s.02')], ('step', 7): [Synset('measure.n.01'), Synset('footstep.n.03'), Synset('step.n.03'), Synset('step.n.04'), Synset('gradation.n.01'), Synset('step.n.06'), Synset('footfall.n.01'), Synset('tone.n.09'), Synset('footprint.n.01'), Synset('step.n.10'), Synset('dance_step.n.01'), Synset('step.v.01'), Synset('step.v.02'), Synset('step.v.03'), Synset('mistreat.v.01'), Synset('step.v.05'), Synset('step.v.06'), Synset('step.v.07'), Synset('step.v.08'), Synset('pace.v.03'), Synset('step.v.10')], ('your', 7): [], ('is', 7): [Synset('be.v.01'), Synset('be.v.02'), Synset('be.v.03'), Synset('exist.v.01'), Synset('be.v.05'), Synset('equal.v.01'), Synset('constitute.v.01'), Synset('be.v.08'), Synset('embody.v.02'), Synset('be.v.10'), Synset('be.v.11'), Synset('be.v.12'), Synset('cost.v.01')], ('online', 7): [Synset('on-line.a.01'), Synset('on-line.a.02'), Synset('on-line.s.03')], ('as', 7): [Synset('arsenic.n.02'), Synset('american_samoa.n.01'), Synset('angstrom.n.01'), Synset('vitamin_a.n.01'), Synset('deoxyadenosine_monophosphate.n.01'), Synset('adenine.n.01'), Synset('ampere.n.02'), Synset('a.n.06'), Synset('a.n.07'), Synset('equally.r.01')], ('be', 7): [Synset('beryllium.n.01'), Synset('be.v.01'), Synset('be.v.02'), Synset('be.v.03'), Synset('exist.v.01'), Synset('be.v.05'), Synset('equal.v.01'), Synset('constitute.v.01'), Synset('be.v.08'), Synset('embody.v.02'), Synset('be.v.10'), Synset('be.v.11'), Synset('be.v.12'), Synset('cost.v.01')], ('###', 6): [], ('other', 6): [Synset('other.a.01'), Synset('other.s.02'), Synset('early.s.03'), Synset('other.s.04')], ('example,', 6): [], ('it', 6): [Synset('information_technology.n.01')], ('child', 6): [Synset('child.n.01'), Synset('child.n.02'), Synset('child.n.03'), Synset('child.n.04')], ('delete', 6): [Synset('delete.v.01'), Synset('erase.v.03'), Synset('edit.v.04')], ('how', 6): [], ('>', 5): [], ('contact', 5): [Synset('contact.n.01'), Synset('contact.n.02'), Synset('contact.n.03'), Synset('contact.n.04'), Synset('contact.n.05'), Synset('liaison.n.02'), Synset('contact.n.07'), Synset('contact.n.08'), Synset('contact.n.09'), Synset('reach.v.04'), Synset('touch.v.05')], ('an', 5): [Synset('associate_in_nursing.n.01')], ('can', 5): [Synset('can.n.01'), Synset('can.n.02'), Synset('can.n.03'), Synset('buttocks.n.01'), Synset('toilet.n.02'), Synset('toilet.n.01'), Synset('can.v.01'), Synset('displace.v.03')], ('child’s', 5): [], ('parent', 5): [Synset('parent.n.01'), Synset('parent.n.02'), Synset('rear.v.02')], ('with', 5): [], ('(for', 5): [], ('use', 5): [Synset('use.n.01'), Synset('function.n.02'), Synset('use.n.03'), Synset('consumption.n.03'), Synset('habit.n.02'), Synset('manipulation.n.01'), Synset('use.n.07'), Synset('use.v.01'), Synset('use.v.02'), Synset('use.v.03'), Synset('use.v.04'), Synset('practice.v.04'), Synset('use.v.06')], ('consent', 5): [Synset('consent.n.01'), Synset('accept.v.03')], ('if', 4): [], ('address,', 4): [], ('name', 4): [Synset('name.n.01'), Synset('name.n.02'), Synset('name.n.03'), Synset('name.n.04'), Synset('name.n.05'), Synset('name.n.06'), Synset('name.v.01'), Synset('name.v.02'), Synset('name.v.03'), Synset('appoint.v.01'), Synset('name.v.05'), Synset('mention.v.01'), Synset('identify.v.05'), Synset('list.v.01'), Synset('diagnose.v.01')], ('collection', 4): [Synset('collection.n.01'), Synset('collection.n.02'), Synset('solicitation.n.02'), Synset('collection.n.04')], ('reasonable', 4): [Synset('reasonable.a.01'), Synset('fair.s.02'), Synset('reasonable.s.03')], ('all', 4): [Synset('all.a.01'), Synset('all.s.02'), Synset('wholly.r.01')], ('privacy', 4): [Synset('privacy.n.01'), Synset('privacy.n.02')], ('information.', 4): [], ('service', 3): [Synset('service.n.01'), Synset('service.n.02'), Synset('service.n.03'), Synset('service.n.04'), Synset('service.n.05'), Synset('military_service.n.01'), Synset('service.n.07'), Synset('avail.n.01'), Synset('service.n.09'), Synset('servicing.n.01'), Synset('service.n.11'), Synset('serve.n.01'), Synset('service.n.13'), Synset('overhaul.n.01'), Synset('service.n.15'), Synset('service.v.01'), Synset('service.v.02'), Synset('serve.v.14')], ('where', 3): [], ('any', 3): [Synset('any.s.01'), Synset('any.r.01')], ('following', 3): [Synset('following.n.01'), Synset('pursuit.n.01'), Synset('follow.v.01'), Synset('postdate.v.01'), Synset('follow.v.03'), Synset('follow.v.04'), Synset('comply.v.01'), Synset('follow.v.06'), Synset('follow.v.07'), Synset('follow.v.08'), Synset('adopt.v.01'), Synset('follow.v.10'), Synset('take_after.v.02'), Synset('trace.v.01'), Synset('watch.v.02'), Synset('succeed.v.02'), Synset('play_along.v.02'), Synset('keep_up.v.04'), Synset('come.v.05'), Synset('follow.v.18'), Synset('follow.v.19'), Synset('be.v.08'), Synset('surveil.v.01'), Synset('pursue.v.02'), Synset('follow.v.23'), Synset('stick_to.v.02'), Synset('following.s.01'), Synset('following.s.02'), Synset('following.a.03'), Synset('following.s.04')], ('directly', 3): [Synset('directly.r.01'), Synset('directly.r.02'), Synset('immediately.r.01'), Synset('directly.r.04')], ('chat', 3): [Synset('chat.n.01'), Synset('new_world_chat.n.01'), Synset('old_world_chat.n.01'), Synset('chew_the_fat.v.01')], ('information;', 3): [], ('information,', 3): [], ('before', 3): [Synset('earlier.r.01'), Synset('ahead.r.01')], ('policy', 3): [Synset('policy.n.01'), Synset('policy.n.02'), Synset('policy.n.03')], ('collecting', 3): [Synset('collection.n.04'), Synset('roll_up.v.02'), Synset('collect.v.02'), Synset('gather.v.01'), Synset('collect.v.04'), Synset('collect.v.05')], ('disclose', 3): [Synset('unwrap.v.02'), Synset('disclose.v.02')], ('third', 3): [Synset('one-third.n.01'), Synset('third_base.n.02'), Synset('third.n.03'), Synset('third.n.04'), Synset('third_gear.n.01'), Synset('third_base.n.01'), Synset('third.s.01'), Synset('third.r.01')], ('they', 3): [], ('kids.', 3): [], ('collect', 3): [Synset('collect.n.01'), Synset('roll_up.v.02'), Synset('collect.v.02'), Synset('gather.v.01'), Synset('collect.v.04'), Synset('collect.v.05'), Synset('collect.s.01'), Synset('collect.r.01')], ('child;', 3): [], ('give', 3): [Synset('give.n.01'), Synset('give.v.01'), Synset('yield.v.01'), Synset('give.v.03'), Synset('give.v.04'), Synset('give.v.05'), Synset('hold.v.03'), Synset('give.v.07'), Synset('give.v.08'), Synset('give.v.09'), Synset('give.v.10'), Synset('render.v.04'), Synset('impart.v.01'), Synset('establish.v.05'), Synset('give.v.14'), Synset('give.v.15'), Synset('sacrifice.v.01'), Synset('pass.v.05'), Synset('give.v.18'), Synset('give.v.19'), Synset('give.v.20'), Synset('give.v.21'), Synset('grant.v.05'), Synset('move_over.v.01'), Synset('feed.v.02'), Synset('contribute.v.02'), Synset('collapse.v.01'), Synset('give.v.27'), Synset('give.v.28'), Synset('give.v.29'), Synset('afford.v.04'), Synset('give.v.31'), Synset('give.v.32'), Synset('give.v.33'), Synset('give.v.34'), Synset('give.v.35'), Synset('give.v.36'), Synset('give.v.37'), Synset('give.v.38'), Synset('give.v.39'), Synset('give.v.40'), Synset('give.v.41'), Synset('give.v.42'), Synset('give.v.43'), Synset('give.v.44')], ('by', 3): [Synset('by.r.01'), Synset('aside.r.06')], ('photo', 3): [Synset('photograph.n.01')], ('kids', 2): [Synset('child.n.01'), Synset('kid.n.02'), Synset('kyd.n.01'), Synset('child.n.02'), Synset('kid.n.05'), Synset('pull_the_leg_of.v.01'), Synset('kid.v.02')], ('including', 2): [Synset('include.v.01'), Synset('include.v.02'), Synset('include.v.03'), Synset('admit.v.03')], ('street', 2): [Synset('street.n.01'), Synset('street.n.02'), Synset('street.n.03'), Synset('street.n.04'), Synset('street.n.05')], ('city', 2): [Synset('city.n.01'), Synset('city.n.02'), Synset('city.n.03')], ('town;', 2): [], ('email', 2): [Synset('electronic_mail.n.01'), Synset('e-mail.v.01')], ('identifier', 2): [Synset('identifier.n.01')], ('someone', 2): [Synset('person.n.01')], ('—', 2): [], ('identifier,', 2): [], ('video', 2): [Synset('video.n.01'), Synset('video_recording.n.01'), Synset('video.n.03'), Synset('television.n.01')], ('identifier;', 2): [], ('user', 2): [Synset('user.n.01'), Synset('exploiter.n.01'), Synset('drug_user.n.01')], ('number;', 2): [], ('social', 2): [Synset('sociable.n.01'), Synset('social.a.01'), Synset('social.a.02'), Synset('social.a.03'), Synset('social.s.04'), Synset('social.s.05'), Synset('social.s.06')], ('security', 2): [Synset('security.n.01'), Synset('security.n.02'), Synset('security.n.03'), Synset('security.n.04'), Synset('security.n.05'), Synset('security.n.06'), Synset('security.n.07'), Synset('security_system.n.02'), Synset('security.n.09')], ('used', 2): [Synset('use.v.01'), Synset('use.v.02'), Synset('use.v.03'), Synset('use.v.04'), Synset('practice.v.04'), Synset('use.v.06'), Synset('used.a.01'), Synset('exploited.s.02'), Synset('secondhand.s.02')], ('number,', 2): [], ('device', 2): [Synset('device.n.01'), Synset('device.n.02'), Synset('device.n.03'), Synset('device.n.04'), Synset('device.n.05')], ('data', 2): [Synset('data.n.01'), Synset('datum.n.01')], ('it’s', 2): [], ('publicly', 2): [Synset('publicly.r.01'), Synset('publicly.r.02')], ('available', 2): [Synset('available.a.01'), Synset('available.s.02'), Synset('available.s.03')], ('unless', 2): [], ('take', 2): [Synset('return.n.06'), Synset('take.n.02'), Synset('take.v.01'), Synset('take.v.02'), Synset('lead.v.01'), Synset('take.v.04'), Synset('assume.v.03'), Synset('take.v.06'), Synset('bring.v.01'), Synset('take.v.08'), Synset('take.v.09'), Synset('choose.v.01'), Synset('accept.v.02'), Synset('fill.v.04'), Synset('consider.v.03'), Synset('necessitate.v.01'), Synset('take.v.15'), Synset('film.v.01'), Synset('remove.v.01'), Synset('consume.v.02'), Synset('take.v.19'), Synset('take.v.20'), Synset('take.v.21'), Synset('assume.v.05'), Synset('accept.v.05'), Synset('take.v.24'), Synset('learn.v.04'), Synset('claim.v.05'), Synset('take.v.27'), Synset('aim.v.01'), Synset('take.v.29'), Synset('carry.v.02'), Synset('lease.v.04'), Synset('subscribe.v.05'), Synset('take.v.33'), Synset('take.v.34'), Synset('take.v.35'), Synset('claim.v.04'), Synset('accept.v.08'), Synset('contain.v.05'), Synset('take.v.39'), Synset('drive.v.16'), Synset('take.v.41'), Synset('contract.v.04')], ('must', 2): [Synset('must.n.01'), Synset('must.n.02'), Synset('mustiness.n.01'), Synset('must.s.01')], ('list', 2): [Synset('list.n.01'), Synset('tilt.n.04'), Synset('list.v.01'), Synset('list.v.02'), Synset('list.v.03'), Synset('list.v.04'), Synset('number.v.03')], ('types', 2): [Synset('type.n.01'), Synset('character.n.05'), Synset('type.n.03'), Synset('type.n.04'), Synset('type.n.05'), Synset('type.n.06'), Synset('type.v.01'), Synset('type.v.02')], ('through', 2): [Synset('done.s.01'), Synset('through.s.02'), Synset('through.r.01'), Synset('through.r.02'), Synset('through.r.03'), Synset('through.r.04'), Synset('through.r.05')], ('description', 2): [Synset('description.n.01'), Synset('description.n.02'), Synset('description.n.03')], ('rights.', 2): [], ('than', 2): [], ('reasonably', 2): [Synset('reasonably.r.01'), Synset('sanely.r.01')], ('necessary', 2): [Synset('necessity.n.02'), Synset('necessary.a.01'), Synset('necessary.s.02')], ('in', 2): [Synset('inch.n.01'), Synset('indium.n.01'), Synset('indiana.n.01'), Synset('in.s.01'), Synset('in.s.02'), Synset('in.s.03'), Synset('in.r.01')], ('review', 2): [Synset('reappraisal.n.01'), Synset('review.n.02'), Synset('follow-up.n.03'), Synset('review.n.04'), Synset('revue.n.01'), Synset('review.n.06'), Synset('recapitulation.n.03'), Synset('review.n.08'), Synset('review.n.09'), Synset('inspection.n.01'), Synset('review.v.01'), Synset('review.v.02'), Synset('review.v.03'), Synset('review.v.04'), Synset('review.v.05')], ('refuse', 2): [Synset('garbage.n.01'), Synset('refuse.v.01'), Synset('refuse.v.02'), Synset('defy.v.02'), Synset('deny.v.04'), Synset('resist.v.05'), Synset('reject.v.06')], ('allow', 2): [Synset('let.v.01'), Synset('permit.v.01'), Synset('allow.v.03'), Synset('allow.v.04'), Synset('leave.v.06'), Synset('allow.v.06'), Synset('admit.v.05'), Synset('give_up.v.11'), Synset('allow.v.09'), Synset('allow.v.10')], ('further', 2): [Synset('foster.v.01'), Synset('promote.v.01'), Synset('further.s.01'), Synset('further.r.01'), Synset('further.r.02'), Synset('farther.r.02'), Synset('far.r.01'), Synset('far.r.02'), Synset('far.r.03'), Synset('far.r.04'), Synset('far.r.05')], ('disclosure', 2): [Synset('disclosure.n.01')], ('parties', 2): [Synset('party.n.01'), Synset('party.n.02'), Synset('party.n.03'), Synset('party.n.04'), Synset('party.n.05'), Synset('party.v.01')], ('procedures', 2): [Synset('procedure.n.01'), Synset('operation.n.07'), Synset('routine.n.03'), Synset('procedure.n.04')], ('purpose', 2): [Synset('purpose.n.01'), Synset('function.n.02'), Synset('determination.n.02'), Synset('aim.v.02'), Synset('purpose.v.02')], ('consent;', 2): [], ('want', 2): [Synset('privation.n.01'), Synset('lack.n.01'), Synset('need.n.02'), Synset('wish.n.01'), Synset('desire.v.01'), Synset('want.v.02'), Synset('want.v.03'), Synset('want.v.04'), Synset('want.v.05')], ('get', 2): [Synset('get.n.01'), Synset('get.v.01'), Synset('become.v.01'), Synset('get.v.03'), Synset('receive.v.02'), Synset('arrive.v.01'), Synset('bring.v.04'), Synset('experience.v.03'), Synset('pay_back.v.02'), Synset('have.v.17'), Synset('induce.v.02'), Synset('get.v.11'), Synset('grow.v.08'), Synset('contract.v.04'), Synset('get.v.14'), Synset('make.v.02'), Synset('drive.v.11'), Synset('catch.v.18'), Synset('catch.v.07'), Synset('get.v.19'), Synset('get.v.20'), Synset('get.v.21'), Synset('get.v.22'), Synset('catch.v.21'), Synset('catch.v.22'), Synset('get.v.25'), Synset('scram.v.01'), Synset('get.v.27'), Synset('get.v.28'), Synset('get.v.29'), Synset('catch.v.24'), Synset('draw.v.15'), Synset('get.v.32'), Synset('perplex.v.01'), Synset('get_down.v.07'), Synset('suffer.v.02'), Synset('beget.v.01')], ('parents’', 2): [], ('form', 2): [Synset('form.n.01'), Synset('kind.n.01'), Synset('form.n.03'), Synset('shape.n.01'), Synset('human_body.n.01'), Synset('shape.n.02'), Synset('form.n.07'), Synset('form.n.08'), Synset('form.n.09'), Synset('form.n.10'), Synset('form.n.11'), Synset('phase.n.02'), Synset('class.n.02'), Synset('form.n.14'), Synset('mannequin.n.02'), Synset('form.n.16'), Synset('form.v.01'), Synset('form.v.02'), Synset('form.v.03'), Synset('shape.v.03'), Synset('shape.v.02'), Synset('imprint.v.01'), Synset('form.v.07')], ('via', 2): [], ('card,', 2): [], ('trained', 2): [Synset('train.v.01'), Synset('train.v.02'), Synset('discipline.v.01'), Synset('prepare.v.05'), Synset('educate.v.03'), Synset('aim.v.01'), Synset('coach.v.01'), Synset('train.v.08'), Synset('train.v.09'), Synset('train.v.10'), Synset('trail.v.05'), Synset('trained.a.01')], ('id', 2): [Synset('idaho.n.01'), Synset('id.n.02'), Synset('id.n.03')], ('long', 2): [Synset('hanker.v.01'), Synset('long.a.01'), Synset('long.a.02'), Synset('long.s.03'), Synset('retentive.a.01'), Synset('long.a.05'), Synset('long.a.06'), Synset('long.s.07'), Synset('farseeing.s.02'), Synset('long.s.09'), Synset('long.r.01'), Synset('long.r.02')], ('submitted', 2): [Synset('submit.v.01'), Synset('submit.v.02'), Synset('submit.v.03'), Synset('present.v.04'), Synset('relegate.v.01'), Synset('submit.v.06'), Synset('take.v.19'), Synset('put_in.v.05'), Synset('render.v.06'), Synset('resign.v.04')], ('them', 2): [], ('way', 2): [Synset('manner.n.01'), Synset('means.n.01'), Synset('direction.n.01'), Synset('way.n.04'), Synset('way.n.05'), Synset('way.n.06'), Synset('way.n.07'), Synset('room.n.02'), Synset('way.n.09'), Synset('way.n.10'), Synset('way.n.11'), Synset('way.n.12'), Synset('way.r.01')], ('steps', 2): [Synset('stairs.n.01'), Synset('steps.n.02'), Synset('measure.n.01'), Synset('footstep.n.03'), Synset('step.n.03'), Synset('step.n.04'), Synset('gradation.n.01'), Synset('step.n.06'), Synset('footfall.n.01'), Synset('tone.n.09'), Synset('footprint.n.01'), Synset('step.n.10'), Synset('dance_step.n.01'), Synset('step.v.01'), Synset('step.v.02'), Synset('step.v.03'), Synset('mistreat.v.01'), Synset('step.v.05'), Synset('step.v.06'), Synset('step.v.07'), Synset('step.v.08'), Synset('pace.v.03'), Synset('step.v.10')], ('only', 2): [Synset('lone.s.03'), Synset('alone.s.03'), Synset('merely.r.01'), Synset('entirely.r.02'), Synset('only.r.03'), Synset('only.r.04'), Synset('only.r.05'), Synset('only.r.06'), Synset('only.r.07')], ('#', 1): [], ('coppa', 1): [], ('6', 1): [Synset('six.n.01'), Synset('six.s.01')], ('compliance', 1): [Synset('conformity.n.02'), Synset('complaisance.n.01'), Synset('submission.n.02')], ('checklist', 1): [Synset('checklist.n.01')], ('1:', 1): [], ('determine', 1): [Synset('determine.v.01'), Synset('determine.v.02'), Synset('determine.v.03'), Synset('specify.v.02'), Synset('decide.v.01'), Synset('determine.v.06'), Synset('settle.v.03'), Synset('determine.v.08')], ('company', 1): [Synset('company.n.01'), Synset('company.n.02'), Synset('company.n.03'), Synset('company.n.04'), Synset('caller.n.01'), Synset('company.n.06'), Synset('party.n.03'), Synset('ship's_company.n.01'), Synset('company.n.09'), Synset('company.v.01')], ('website', 1): [Synset('web_site.n.01')], ('collects', 1): [Synset('collect.n.01'), Synset('roll_up.v.02'), Synset('collect.v.02'), Synset('gather.v.01'), Synset('collect.v.04'), Synset('collect.v.05')], ('under', 1): [Synset('nether.s.03'), Synset('under.s.02'), Synset('under.r.01'), Synset('under.r.02'), Synset('under.r.03'), Synset('under.r.04'), Synset('under.r.05'), Synset('under.r.06'), Synset('under.r.07'), Synset('under.r.08')], ('13.', 1): [], ('has', 1): [Synset('hour_angle.n.02'), Synset('have.v.01'), Synset('have.v.02'), Synset('experience.v.03'), Synset('own.v.01'), Synset('get.v.03'), Synset('consume.v.02'), Synset('have.v.07'), Synset('hold.v.03'), Synset('have.v.09'), Synset('have.v.10'), Synset('have.v.11'), Synset('have.v.12'), Synset('induce.v.02'), Synset('accept.v.02'), Synset('receive.v.01'), Synset('suffer.v.02'), Synset('have.v.17'), Synset('give_birth.v.01'), Synset('take.v.35')], ('been', 1): [Synset('be.v.01'), Synset('be.v.02'), Synset('be.v.03'), Synset('exist.v.01'), Synset('be.v.05'), Synset('equal.v.01'), Synset('constitute.v.01'), Synset('be.v.08'), Synset('embody.v.02'), Synset('be.v.10'), Synset('be.v.11'), Synset('be.v.12'), Synset('cost.v.01')], ('defined', 1): [Synset('specify.v.03'), Synset('define.v.02'), Synset('define.v.03'), Synset('define.v.04'), Synset('specify.v.02'), Synset('defined.a.01'), Synset('defined.s.02')], ('full', 1): [Synset('full_moon.n.01'), Synset('full.v.01'), Synset('full.v.02'), Synset('wax.v.03'), Synset('full.a.01'), Synset('entire.s.01'), Synset('full.s.03'), Synset('full.s.04'), Synset('full.a.05'), Synset('full.s.06'), Synset('broad.s.05'), Synset('wide.s.06'), Synset('fully.r.01')], ('name;', 1): [], ('home', 1): [Synset('home.n.01'), Synset('dwelling.n.01'), Synset('home.n.03'), Synset('home_plate.n.01'), Synset('base.n.14'), Synset('home.n.06'), Synset('home.n.07'), Synset('family.n.01'), Synset('home.n.09'), Synset('home.v.01'), Synset('home.v.02'), Synset('home.a.01'), Synset('home.a.02'), Synset('home.s.03'), Synset('home.r.01'), Synset('home.r.02'), Synset('home.r.03')], ('physical', 1): [Synset('physical.a.01'), Synset('physical.a.02'), Synset('physical.s.03'), Synset('physical.s.04'), Synset('physical.s.05'), Synset('forcible.s.01'), Synset('physical.s.07')], ('like', 1): [Synset('like.n.01'), Synset('like.n.02'), Synset('wish.v.02'), Synset('like.v.02'), Synset('like.v.03'), Synset('like.v.04'), Synset('like.v.05'), Synset('like.a.01'), Synset('like.a.02'), Synset('alike.a.01'), Synset('comparable.s.02')], ('address', 1): [Synset('address.n.01'), Synset('address.n.02'), Synset('address.n.03'), Synset('address.n.04'), Synset('address.n.05'), Synset('address.n.06'), Synset('address.n.07'), Synset('savoir-faire.n.01'), Synset('address.v.01'), Synset('address.v.02'), Synset('address.v.03'), Synset('address.v.04'), Synset('address.v.05'), Synset('address.v.06'), Synset('address.v.07'), Synset('cover.v.05'), Synset('address.v.09'), Synset('address.v.10')], ('permits', 1): [Synset('license.n.01'), Synset('license.n.04'), Synset('permit.n.03'), Synset('permit.v.01'), Synset('let.v.01'), Synset('allow.v.10')], ('person', 1): [Synset('person.n.01'), Synset('person.n.02'), Synset('person.n.03')], ('im', 1): [], ('voip', 1): [], ('screen', 1): [Synset('screen.n.01'), Synset('blind.n.03'), Synset('screen.n.03'), Synset('screen.n.04'), Synset('screen.n.05'), Synset('filmdom.n.01'), Synset('sieve.n.01'), Synset('screen_door.n.01'), Synset('screen.n.09'), Synset('screen.v.01'), Synset('screen.v.02'), Synset('screen.v.03'), Synset('screen.v.04'), Synset('screen.v.05'), Synset('riddle.v.03'), Synset('shield.v.01')], ('functions', 1): [Synset('function.n.01'), Synset('function.n.02'), Synset('function.n.03'), Synset('function.n.04'), Synset('function.n.05'), Synset('affair.n.03'), Synset('routine.n.03'), Synset('function.v.01'), Synset('serve.v.01'), Synset('officiate.v.02')], ('telephone', 1): [Synset('telephone.n.01'), Synset('telephone.n.02'), Synset('call.v.03')], ('persistent', 1): [Synset('persistent.s.01'), Synset('haunting.s.01'), Synset('persistent.a.03'), Synset('dogged.s.01')], ('recognize', 1): [Synset('acknowledge.v.06'), Synset('recognize.v.02'), Synset('spot.v.02'), Synset('recognize.v.04'), Synset('accredit.v.01'), Synset('greet.v.01'), Synset('acknowledge.v.04'), Synset('recognize.v.08'), Synset('recognize.v.09')], ('over', 1): [Synset('over.n.01'), Synset('complete.s.05'), Synset('over.r.01'), Synset('over.r.02'), Synset('over.r.03'), Synset('over.r.04'), Synset('all_over.r.01')], ('time', 1): [Synset('time.n.01'), Synset('time.n.02'), Synset('time.n.03'), Synset('time.n.04'), Synset('time.n.05'), Synset('time.n.06'), Synset('clock_time.n.01'), Synset('fourth_dimension.n.01'), Synset('meter.n.04'), Synset('prison_term.n.01'), Synset('clock.v.01'), Synset('time.v.02'), Synset('time.v.03'), Synset('time.v.04'), Synset('time.v.05')], ('across', 1): [Synset('across.r.01'), Synset('across.r.02')], ('different', 1): [Synset('different.a.01'), Synset('different.s.02'), Synset('different.s.03'), Synset('unlike.a.01'), Synset('different.s.05')], ('sites,', 1): [], ('cookie', 1): [Synset('cookie.n.01'), Synset('cookie.n.02'), Synset('cookie.n.03')], ('ip', 1): [Synset('information_science.n.01')], ('processor', 1): [Synset('processor.n.01'), Synset('processor.n.02'), Synset('central_processing_unit.n.01')], ('serial', 1): [Synset('serial.n.01'), Synset('series.n.03'), Synset('consecutive.s.02'), Synset('serial.a.02'), Synset('serial.a.03'), Synset('serial.s.04')], ('unique', 1): [Synset('alone.s.04'), Synset('unique.s.02'), Synset('singular.s.06'), Synset('unique.s.04')], ('photo,', 1): [], ('video,', 1): [], ('audio', 1): [Synset('audio.n.01'), Synset('audio.n.02'), Synset('sound_recording.n.01'), Synset('audio.n.04')], ('file', 1): [Synset('file.n.01'), Synset('file.n.02'), Synset('file.n.03'), Synset('file.n.04'), Synset('file.v.01'), Synset('file.v.02'), Synset('file.v.03'), Synset('charge.v.06'), Synset('file.v.05')], ('containing', 1): [Synset('incorporate.v.02'), Synset('hold.v.11'), Synset('control.v.02'), Synset('contain.v.04'), Synset('contain.v.05'), Synset('check.v.18')], ('image', 1): [Synset('image.n.01'), Synset('persona.n.02'), Synset('picture.n.01'), Synset('prototype.n.01'), Synset('trope.n.01'), Synset('double.n.03'), Synset('image.n.07'), Synset('image.n.08'), Synset('effigy.n.01'), Synset('image.v.01'), Synset('visualize.v.01')], ('voice;', 1): [], ('geolocation', 1): [], ('sufficient', 1): [Synset('sufficient.a.01')], ('identify', 1): [Synset('identify.v.01'), Synset('name.v.02'), Synset('identify.v.03'), Synset('identify.v.04'), Synset('identify.v.05'), Synset('identify.v.06')], ('about', 1): [Synset('about.s.01'), Synset('approximately.r.01'), Synset('about.r.02'), Synset('about.r.03'), Synset('about.r.04'), Synset('about.r.05'), Synset('about.r.06'), Synset('about.r.07')], ('combined', 1): [Synset('unite.v.03'), Synset('compound.v.02'), Synset('compound.v.05'), Synset('combine.v.04'), Synset('combine.v.05'), Synset('aggregate.v.02'), Synset('blend.v.03'), Synset('combined.a.01')], ('one', 1): [Synset('one.n.01'), Synset('one.n.02'), Synset('one.s.01'), Synset('one.s.02'), Synset('one.s.03'), Synset('one.s.04'), Synset('one.s.05'), Synset('one.s.06'), Synset('matchless.s.01')], ('these', 1): [], ('identifiers.', 1): [], ('seen', 1): [Synset('see.v.01'), Synset('understand.v.02'), Synset('witness.v.02'), Synset('visualize.v.01'), Synset('see.v.05'), Synset('learn.v.02'), Synset('watch.v.03'), Synset('meet.v.01'), Synset('determine.v.08'), Synset('see.v.10'), Synset('see.v.11'), Synset('see.v.12'), Synset('visit.v.01'), Synset('attend.v.02'), Synset('see.v.15'), Synset('go_steady.v.01'), Synset('see.v.17'), Synset('see.v.18'), Synset('see.v.19'), Synset('examine.v.02'), Synset('experience.v.01'), Synset('see.v.22'), Synset('see.v.23'), Synset('interpret.v.01')], ('request,', 1): [], ('prompt,', 1): [], ('encourage', 1): [Synset('promote.v.01'), Synset('encourage.v.02'), Synset('encourage.v.03')], ('submission', 1): [Synset('submission.n.01'), Synset('submission.n.02'), Synset('submission.n.03'), Synset('meekness.n.01'), Synset('submission.n.05'), Synset('submission.n.06'), Synset('submission.n.07')], ('even', 1): [Synset('evening.n.01'), Synset('flush.v.04'), Synset('even.v.02'), Synset('even.v.03'), Synset('even.a.01'), Synset('even.s.02'), Synset('even.a.03'), Synset('even.s.04'), Synset('even.s.05'), Synset('tied.s.05'), Synset('even.r.01'), Synset('even.r.02'), Synset('even.r.03'), Synset('even.r.04')], ('optional;', 1): [], ('let', 1): [Synset('lashkar-e-taiba.n.01'), Synset('let.n.02'), Synset('let.v.01'), Synset('let.v.02'), Synset('permit.v.01'), Synset('get.v.03'), Synset('let.v.05'), Synset('lease.v.03')], ('made', 1): [Synset('make.v.01'), Synset('make.v.02'), Synset('make.v.03'), Synset('induce.v.02'), Synset('cause.v.01'), Synset('produce.v.02'), Synset('draw.v.04'), Synset('make.v.08'), Synset('create.v.05'), Synset('gain.v.08'), Synset('do.v.08'), Synset('form.v.02'), Synset('reach.v.07'), Synset('make.v.14'), Synset('make.v.15'), Synset('make.v.16'), Synset('construct.v.01'), Synset('make.v.18'), Synset('make.v.19'), Synset('name.v.03'), Synset('have.v.17'), Synset('reach.v.01'), Synset('lay_down.v.01'), Synset('make.v.24'), Synset('make.v.25'), Synset('hold.v.03'), Synset('make.v.27'), Synset('take.v.27'), Synset('stool.v.04'), Synset('make.v.30'), Synset('make.v.31'), Synset('make.v.32'), Synset('make.v.33'), Synset('make.v.34'), Synset('make.v.35'), Synset('make.v.36'), Synset('make.v.37'), Synset('make.v.38'), Synset('cook.v.02'), Synset('seduce.v.01'), Synset('make.v.41'), Synset('make.v.42'), Synset('make.v.43'), Synset('make.v.44'), Synset('make.v.45'), Synset('make.v.46'), Synset('make.v.47'), Synset('make.v.48'), Synset('make.v.49'), Synset('made.s.01'), Synset('made.a.02'), Synset('made.s.03')], ('open', 1): [Synset('open.n.01'), Synset('outdoors.n.01'), Synset('open.n.03'), Synset('open.n.04'), Synset('open.v.01'), Synset('open.v.02'), Synset('open.v.03'), Synset('open.v.04'), Synset('unfold.v.04'), Synset('open.v.06'), Synset('open.v.07'), Synset('open.v.08'), Synset('open.v.09'), Synset('afford.v.04'), Synset('open.v.11'), Synset('open.a.01'), Synset('open.a.02'), Synset('exposed.s.01'), Synset('open.s.04'), Synset('open.a.05'), Synset('open.s.06'), Synset('open.s.07'), Synset('assailable.s.01'), Synset('loose.s.09'), Synset('open.s.10'), Synset('open.a.11'), Synset('open.s.12'), Synset('open.s.13'), Synset('open.s.14'), Synset('receptive.a.02'), Synset('overt.a.01'), Synset('open.s.17'), Synset('capable.s.02'), Synset('clear.s.03'), Synset('candid.s.03'), Synset('open.s.21')], ('posting', 1): [Synset('poster.n.01'), Synset('posting.n.02'), Synset('mailing.n.02'), Synset('post.v.01'), Synset('post.v.02'), Synset('post.v.03'), Synset('station.v.01'), Synset('post.v.05'), Synset('post.v.06'), Synset('post.v.07'), Synset('post.v.08'), Synset('stake.v.03'), Synset('post.v.10'), Synset('mail.v.02'), Synset('post.v.12')], ('function)', 1): [], ('measures', 1): [Synset('measure.n.01'), Synset('measure.n.02'), Synset('bill.n.01'), Synset('measurement.n.01'), Synset('standard.n.01'), Synset('meter.n.03'), Synset('measure.n.07'), Synset('measuring_stick.n.01'), Synset('measure.n.09'), Synset('measure.v.01'), Synset('quantify.v.02'), Synset('measure.v.03'), Synset('measure.v.04')], ('virtually', 1): [Synset('virtually.r.01'), Synset('about.r.07')], ('postings', 1): [Synset('poster.n.01'), Synset('posting.n.02'), Synset('mailing.n.02'), Synset('post.v.01'), Synset('post.v.02'), Synset('post.v.03'), Synset('station.v.01'), Synset('post.v.05'), Synset('post.v.06'), Synset('post.v.07'), Synset('post.v.08'), Synset('stake.v.03'), Synset('post.v.10'), Synset('mail.v.02'), Synset('post.v.12')], ('are', 1): [Synset('are.n.01'), Synset('be.v.01'), Synset('be.v.02'), Synset('be.v.03'), Synset('exist.v.01'), Synset('be.v.05'), Synset('equal.v.01'), Synset('constitute.v.01'), Synset('be.v.08'), Synset('embody.v.02'), Synset('be.v.10'), Synset('be.v.11'), Synset('be.v.12'), Synset('cost.v.01')], ('public', 1): [Synset('populace.n.01'), Synset('public.n.02'), Synset('public.a.01'), Synset('public.s.02')], ('records;', 1): [], ('passively', 1): [Synset('passively.r.01')], ('track', 1): [Synset('path.n.04'), Synset('lead.n.03'), Synset('track.n.03'), Synset('racetrack.n.01'), Synset('cut.n.08'), Synset('track.n.06'), Synset('track.n.07'), Synset('track.n.08'), Synset('track.n.09'), Synset('track.n.10'), Synset('track.n.11'), Synset('track.v.01'), Synset('track.v.02'), Synset('chase.v.01'), Synset('traverse.v.01'), Synset('track.v.05')], ('online.', 1): [], ('2:', 1): [], ('post', 1): [Synset('post.n.01'), Synset('military_post.n.01'), Synset('position.n.06'), Synset('post.n.04'), Synset('post.n.05'), Synset('post.n.06'), Synset('post.n.07'), Synset('mail.n.04'), Synset('post.n.09'), Synset('mail.n.02'), Synset('post.n.11'), Synset('post.v.01'), Synset('post.v.02'), Synset('post.v.03'), Synset('station.v.01'), Synset('post.v.05'), Synset('post.v.06'), Synset('post.v.07'), Synset('post.v.08'), Synset('stake.v.03'), Synset('post.v.10'), Synset('mail.v.02'), Synset('post.v.12')], ('complies', 1): [Synset('comply.v.01')], ('coppa.', 1): [], ('comply', 1): [Synset('comply.v.01')], ('coppa,', 1): [], ('should', 1): [], ('clear', 1): [Synset('clear.n.01'), Synset('open.n.01'), Synset('unclutter.v.01'), Synset('clear.v.02'), Synset('clear_up.v.04'), Synset('authorize.v.01'), Synset('clear.v.05'), Synset('pass.v.09'), Synset('clear.v.07'), Synset('clear.v.08'), Synset('clear.v.09'), Synset('clear.v.10'), Synset('clear.v.11'), Synset('clear.v.12'), Synset('net.v.02'), Synset('net.v.01'), Synset('gain.v.08'), Synset('clear.v.16'), Synset('clear.v.17'), Synset('acquit.v.01'), Synset('clear.v.19'), Synset('clear.v.20'), Synset('clear.v.21'), Synset('clear.v.22'), Synset('clear.v.23'), Synset('clear.v.24'), Synset('clear.a.01'), Synset('clear.s.02'), Synset('clear.s.03'), Synset('clear.a.04'), Synset('clear.s.05'), Synset('clear.s.06'), Synset('clean.s.03'), Synset('clear.s.08'), Synset('clear.s.09'), Synset('well-defined.a.02'), Synset('clear.a.11'), Synset('clean.s.02'), Synset('clear.s.13'), Synset('clear.s.14'), Synset('clear.s.15'), Synset('absolved.s.01'), Synset('clear.s.17'), Synset('clear.r.01'), Synset('clearly.r.04')], ('easy', 1): [Synset('easy.a.01'), Synset('easy.s.02'), Synset('easy.a.03'), Synset('easy.s.04'), Synset('easy.s.05'), Synset('easy.s.06'), Synset('comfortable.s.05'), Synset('easy.s.08'), Synset('easy.s.09'), Synset('easy.s.10'), Synset('easy.s.11'), Synset('easy.s.12'), Synset('easily.r.01'), Synset('slowly.r.01'), Synset('easy.r.03')], ('read.', 1): [], ('contain', 1): [Synset('incorporate.v.02'), Synset('hold.v.11'), Synset('control.v.02'), Synset('contain.v.04'), Synset('contain.v.05'), Synset('check.v.18')], ('operators', 1): [Synset('operator.n.01'), Synset('operator.n.02'), Synset('operator.n.03'), Synset('hustler.n.02'), Synset('operator.n.05')], ('children', 1): [Synset('child.n.01'), Synset('child.n.02'), Synset('child.n.03'), Synset('child.n.04')], ('name,', 1): [], ('hobbies,', 1): [], ('etc.);', 1): [], ('passively,', 1): [], ('say,', 1): [], ('cookies;', 1): [], ('will', 1): [Synset('volition.n.01'), Synset('will.n.02'), Synset('will.n.03'), Synset('will.v.01'), Synset('will.v.02'), Synset('bequeath.v.01')], ('marketing', 1): [Synset('selling.n.01'), Synset('marketing.n.02'), Synset('marketing.n.03'), Synset('market.v.01'), Synset('market.v.02'), Synset('market.v.03'), Synset('commercialize.v.02')], ('child,', 1): [], ('notifying', 1): [Synset('advise.v.02')], ('contest', 1): [Synset('contest.n.01'), Synset('contest.n.02'), Synset('contest.v.01')], ('winners,', 1): [], ('allowing', 1): [Synset('let.v.01'), Synset('permit.v.01'), Synset('allow.v.03'), Synset('allow.v.04'), Synset('leave.v.06'), Synset('allow.v.06'), Synset('admit.v.05'), Synset('give_up.v.11'), Synset('allow.v.09'), Synset('allow.v.10')], ('make', 1): [Synset('brand.n.02'), Synset('shuffle.n.01'), Synset('make.v.01'), Synset('make.v.02'), Synset('make.v.03'), Synset('induce.v.02'), Synset('cause.v.01'), Synset('produce.v.02'), Synset('draw.v.04'), Synset('make.v.08'), Synset('create.v.05'), Synset('gain.v.08'), Synset('do.v.08'), Synset('form.v.02'), Synset('reach.v.07'), Synset('make.v.14'), Synset('make.v.15'), Synset('make.v.16'), Synset('construct.v.01'), Synset('make.v.18'), Synset('make.v.19'), Synset('name.v.03'), Synset('have.v.17'), Synset('reach.v.01'), Synset('lay_down.v.01'), Synset('make.v.24'), Synset('make.v.25'), Synset('hold.v.03'), Synset('make.v.27'), Synset('take.v.27'), Synset('stool.v.04'), Synset('make.v.30'), Synset('make.v.31'), Synset('make.v.32'), Synset('make.v.33'), Synset('make.v.34'), Synset('make.v.35'), Synset('make.v.36'), Synset('make.v.37'), Synset('make.v.38'), Synset('cook.v.02'), Synset('seduce.v.01'), Synset('make.v.41'), Synset('make.v.42'), Synset('make.v.43'), Synset('make.v.44'), Synset('make.v.45'), Synset('make.v.46'), Synset('make.v.47'), Synset('make.v.48'), Synset('make.v.49')], ('room);', 1): [], ('whether', 1): [], ('parties.', 1): [], ('do,', 1): [], ('businesses', 1): [Synset('business.n.01'), Synset('commercial_enterprise.n.02'), Synset('occupation.n.01'), Synset('business.n.04'), Synset('business.n.05'), Synset('business.n.06'), Synset('business.n.07'), Synset('clientele.n.01'), Synset('business.n.09')], ('ad', 1): [Synset('ad.n.01'), Synset('ad.r.01')], ('networks)', 1): [], ('used.', 1): [], ('parental', 1): [Synset('parental.a.01'), Synset('parental.a.02')], ('won’t', 1): [], ('require', 1): [Synset('necessitate.v.01'), Synset('ask.v.04'), Synset('command.v.02'), Synset('want.v.02')], ('more', 1): [Synset('more.n.01'), Synset('more.a.01'), Synset('more.a.02'), Synset('more.r.01'), Synset('more.r.02')], ('participate', 1): [Synset('participate.v.01'), Synset('enter.v.02')], ('activity;', 1): [], ('direct', 1): [Synset('direct.v.01'), Synset('target.v.01'), Synset('direct.v.03'), Synset('direct.v.04'), Synset('lead.v.01'), Synset('send.v.01'), Synset('aim.v.01'), Synset('conduct.v.02'), Synset('direct.v.09'), Synset('calculate.v.05'), Synset('steer.v.01'), Synset('address.v.03'), Synset('mastermind.v.01'), Synset('direct.a.01'), Synset('direct.s.02'), Synset('direct.a.03'), Synset('lineal.a.01'), Synset('direct.a.05'), Synset('direct.a.06'), Synset('direct.a.07'), Synset('direct.s.08'), Synset('direct.s.09'), Synset('direct.s.10'), Synset('directly.r.01')], ('it,', 1): [], ('agree', 1): [Synset('agree.v.01'), Synset('agree.v.02'), Synset('match.v.01'), Synset('harmonize.v.01'), Synset('agree.v.05'), Synset('agree.v.06'), Synset('agree.v.07')], ('but', 1): [Synset('merely.r.01')], ('still', 1): [Synset('still.n.01'), Synset('hush.n.01'), Synset('still.n.03'), Synset('distillery.n.01'), Synset('calm.v.01'), Synset('hush.v.02'), Synset('still.v.03'), Synset('still.v.04'), Synset('inactive.s.10'), Synset('silent.s.01'), Synset('placid.s.01'), Synset('still.a.04'), Synset('still.a.05'), Synset('still.s.06'), Synset('still.r.01'), Synset('however.r.01'), Synset('even.r.03'), Synset('still.r.04')], ('not', 1): [Synset('not.r.01')], ('that’s', 1): [], ('part', 1): [Synset('part.n.01'), Synset('part.n.02'), Synset('part.n.03'), Synset('part.n.04'), Synset('region.n.01'), Synset('function.n.03'), Synset('character.n.04'), Synset('share.n.01'), Synset('part.n.09'), Synset('part.n.10'), Synset('part.n.11'), Synset('contribution.n.01'), Synset('separate.v.09'), Synset('separate.v.08'), Synset('depart.v.03'), Synset('separate.v.12'), Synset('separate.v.02'), Synset('partially.r.01')], ('networking);', 1): [], ('follow', 1): [Synset('follow.v.01'), Synset('postdate.v.01'), Synset('follow.v.03'), Synset('follow.v.04'), Synset('comply.v.01'), Synset('follow.v.06'), Synset('follow.v.07'), Synset('follow.v.08'), Synset('adopt.v.01'), Synset('follow.v.10'), Synset('take_after.v.02'), Synset('trace.v.01'), Synset('watch.v.02'), Synset('succeed.v.02'), Synset('play_along.v.02'), Synset('keep_up.v.04'), Synset('come.v.05'), Synset('follow.v.18'), Synset('follow.v.19'), Synset('be.v.08'), Synset('surveil.v.01'), Synset('pursue.v.02'), Synset('follow.v.23'), Synset('stick_to.v.02')], ('exercise', 1): [Synset('exercise.n.01'), Synset('use.n.01'), Synset('exercise.n.03'), Synset('exercise.n.04'), Synset('exercise.n.05'), Synset('exert.v.01'), Synset('practice.v.01'), Synset('exercise.v.03'), Synset('exercise.v.04'), Synset('drill.v.03')], ('3:', 1): [], ('notify', 1): [Synset('advise.v.02')], ('parents', 1): [Synset('parent.n.01'), Synset('parent.n.02'), Synset('rear.v.02')], ('[see', 1): [], ('exceptions](https://www.ftc.gov/tips-advice/business-center/guidance/childrens-online-privacy-protection-rule-six-step-compliance#chart)', 1): [], ('getting', 1): [Synset('acquiring.n.01'), Synset('get.v.01'), Synset('become.v.01'), Synset('get.v.03'), Synset('receive.v.02'), Synset('arrive.v.01'), Synset('bring.v.04'), Synset('experience.v.03'), Synset('pay_back.v.02'), Synset('have.v.17'), Synset('induce.v.02'), Synset('get.v.11'), Synset('grow.v.08'), Synset('contract.v.04'), Synset('get.v.14'), Synset('make.v.02'), Synset('drive.v.11'), Synset('catch.v.18'), Synset('catch.v.07'), Synset('get.v.19'), Synset('get.v.20'), Synset('get.v.21'), Synset('get.v.22'), Synset('catch.v.21'), Synset('catch.v.22'), Synset('get.v.25'), Synset('scram.v.01'), Synset('get.v.27'), Synset('get.v.28'), Synset('get.v.29'), Synset('catch.v.24'), Synset('draw.v.15'), Synset('get.v.32'), Synset('perplex.v.01'), Synset('get_down.v.07'), Synset('suffer.v.02'), Synset('beget.v.01')], ('required', 1): [Synset('necessitate.v.01'), Synset('ask.v.04'), Synset('command.v.02'), Synset('want.v.02'), Synset('needed.s.01'), Synset('compulsory.s.01')], ('collection,', 1): [], ('use,', 1): [], ('specific', 1): [Synset('particular.n.01'), Synset('specific.n.02'), Synset('specific.a.01'), Synset('specific.s.02'), Synset('specific.a.03'), Synset('specific.a.04')], ('might', 1): [Synset('might.n.01')], ('disclosed', 1): [Synset('unwrap.v.02'), Synset('disclose.v.02'), Synset('disclosed.s.01')], ('others;', 1): [], ('link', 1): [Synset('link.n.01'), Synset('link.n.02'), Synset('connection.n.02'), Synset('connection.n.06'), Synset('link.n.05'), Synset('link.n.06'), Synset('liaison.n.02'), Synset('radio_link.n.01'), Synset('link.n.09'), Synset('associate.v.01'), Synset('connect.v.01'), Synset('connect.v.03'), Synset('yoke.v.02')], ('policy;', 1): [], ('doesn’t', 1): [], ('within', 1): [Synset('inside.r.02')], ('time,', 1): [], ('you’ll', 1): [], ('parent’s', 1): [], ('records.', 1): [], ('4:', 1): [], ('verifiable', 1): [Synset('verifiable.s.01'), Synset('confirmable.s.01')], ('sign', 1): [Synset('sign.n.01'), Synset('sign.n.02'), Synset('signal.n.01'), Synset('signboard.n.01'), Synset('sign_of_the_zodiac.n.01'), Synset('sign.n.06'), Synset('polarity.n.02'), Synset('augury.n.01'), Synset('sign.n.09'), Synset('sign.n.10'), Synset('sign.n.11'), Synset('sign.v.01'), Synset('sign.v.02'), Synset('sign.v.03'), Synset('sign.v.04'), Synset('sign.v.05'), Synset('sign.v.06'), Synset('sign.v.07'), Synset('bless.v.03'), Synset('gestural.s.01')], ('send', 1): [Synset('send.v.01'), Synset('send.v.02'), Synset('mail.v.02'), Synset('transport.v.04'), Synset('station.v.01'), Synset('send.v.06'), Synset('commit.v.03'), Synset('air.v.03')], ('back', 1): [Synset('back.n.01'), Synset('rear.n.05'), Synset('back.n.03'), Synset('back.n.04'), Synset('spinal_column.n.01'), Synset('binding.n.05'), Synset('back.n.07'), Synset('back.n.08'), Synset('back.n.09'), Synset('back.v.01'), Synset('back.v.02'), Synset('second.v.01'), Synset('back.v.04'), Synset('back.v.05'), Synset('back.v.06'), Synset('bet_on.v.01'), Synset('back.v.08'), Synset('back.v.09'), Synset('back.v.10'), Synset('back.a.01'), Synset('back.s.02'), Synset('back.s.03'), Synset('back.r.01'), Synset('back.r.02'), Synset('back.r.03'), Synset('back.r.04'), Synset('back.r.05'), Synset('back.r.06')], ('fax,', 1): [], ('mail,', 1): [], ('electronic', 1): [Synset('electronic.a.01'), Synset('electronic.a.02')], ('scan;', 1): [], ('credit', 1): [Synset('recognition.n.03'), Synset('credit.n.02'), Synset('credit.n.03'), Synset('credit.n.04'), Synset('credit.n.05'), Synset('credit.n.06'), Synset('citation.n.03'), Synset('credit.n.08'), Synset('credit_rating.n.01'), Synset('credit.v.01'), Synset('accredit.v.03'), Synset('credit.v.03'), Synset('credit.v.04')], ('debit', 1): [Synset('debit.n.01'), Synset('debit.v.01')], ('payment', 1): [Synset('payment.n.01'), Synset('payment.n.02'), Synset('requital.n.02')], ('system', 1): [Synset('system.n.01'), Synset('system.n.02'), Synset('system.n.03'), Synset('system.n.04'), Synset('arrangement.n.03'), Synset('system.n.06'), Synset('system.n.07'), Synset('system.n.08'), Synset('organization.n.05')], ('provides', 1): [Synset('supply.v.01'), Synset('provide.v.02'), Synset('provide.v.03'), Synset('put_up.v.02'), Synset('leave.v.06'), Synset('provide.v.06'), Synset('provide.v.07')], ('notification', 1): [Synset('presentment.n.01'), Synset('telling.n.02'), Synset('notification.n.03')], ('each', 1): [Synset('each.s.01'), Synset('each.r.01')], ('separate', 1): [Synset('offprint.n.01'), Synset('separate.n.02'), Synset('separate.v.01'), Synset('separate.v.02'), Synset('distinguish.v.01'), Synset('divide.v.01'), Synset('separate.v.05'), Synset('classify.v.01'), Synset('separate.v.07'), Synset('separate.v.08'), Synset('separate.v.09'), Synset('break.v.02'), Synset('discriminate.v.02'), Synset('separate.v.12'), Synset('branch.v.02'), Synset('separate.a.01'), Synset('freestanding.s.01'), Synset('separate.s.03'), Synset('disjoined.s.01')], ('transaction', 1): [Synset('transaction.n.01')], ('account', 1): [Synset('history.n.02'), Synset('report.n.03'), Synset('account.n.03'), Synset('explanation.n.01'), Synset('score.n.05'), Synset('account.n.06'), Synset('account.n.07'), Synset('report.n.02'), Synset('bill.n.02'), Synset('account.n.10'), Synset('account.v.01'), Synset('account.v.02'), Synset('report.v.01'), Synset('account.v.04')], ('holder;', 1): [], ('call', 1): [Synset('call.n.01'), Synset('call.n.02'), Synset('cry.n.01'), Synset('call.n.04'), Synset('birdcall.n.01'), Synset('call.n.06'), Synset('margin_call.n.01'), Synset('call.n.08'), Synset('call.n.09'), Synset('call.n.10'), Synset('call.n.11'), Synset('call.n.12'), Synset('call_option.n.02'), Synset('name.v.01'), Synset('call.v.02'), Synset('call.v.03'), Synset('shout.v.02'), Synset('call.v.05'), Synset('visit.v.03'), Synset('call.v.07'), Synset('call.v.08'), Synset('call.v.09'), Synset('call.v.10'), Synset('call.v.11'), Synset('address.v.06'), Synset('call.v.13'), Synset('call.v.14'), Synset('bid.v.04'), Synset('call.v.16'), Synset('call.v.17'), Synset('predict.v.01'), Synset('call.v.19'), Synset('call.v.20'), Synset('call.v.21'), Synset('call.v.22'), Synset('call.v.23'), Synset('call.v.24'), Synset('call.v.25'), Synset('call.v.26'), Synset('call.v.27'), Synset('call.v.28')], ('toll-free', 1): [Synset('toll-free.a.01')], ('number', 1): [Synset('number.n.01'), Synset('number.n.02'), Synset('act.n.04'), Synset('phone_number.n.01'), Synset('numeral.n.01'), Synset('issue.n.02'), Synset('number.n.07'), Synset('number.n.08'), Synset('number.n.09'), Synset('number.n.10'), Synset('number.n.11'), Synset('total.v.01'), Synset('number.v.02'), Synset('number.v.03'), Synset('count.v.05'), Synset('count.v.01'), Synset('number.v.06')], ('staffed', 1): [Synset('staff.v.01'), Synset('staff.v.02')], ('personnel;', 1): [], ('connect', 1): [Synset('connect.v.01'), Synset('associate.v.01'), Synset('connect.v.03'), Synset('connect.v.04'), Synset('connect.v.05'), Synset('connect.v.06'), Synset('connect.v.07'), Synset('connect.v.08'), Synset('get_in_touch.v.01'), Synset('plug_in.v.01'), Synset('connect.v.11')], ('personnel', 1): [Synset('force.n.04'), Synset('personnel_department.n.01')], ('conference;', 1): [], ('provide', 1): [Synset('supply.v.01'), Synset('provide.v.02'), Synset('provide.v.03'), Synset('put_up.v.02'), Synset('leave.v.06'), Synset('provide.v.06'), Synset('provide.v.07')], ('copy', 1): [Synset('transcript.n.02'), Synset('copy.n.02'), Synset('copy.n.03'), Synset('copy.n.04'), Synset('copy.v.01'), Synset('imitate.v.01'), Synset('replicate.v.02'), Synset('copy.v.04')], ('government', 1): [Synset('government.n.01'), Synset('government.n.02'), Synset('government.n.03'), Synset('politics.n.02')], ('issued', 1): [Synset('publish.v.02'), Synset('issue.v.02'), Synset('issue.v.03'), Synset('issue.v.04'), Synset('write_out.v.02')], ('check', 1): [Synset('check.n.01'), Synset('assay.n.01'), Synset('check.n.03'), Synset('arrest.n.02'), Synset('confirmation.n.01'), Synset('check.n.06'), Synset('check_mark.n.01'), Synset('hindrance.n.01'), Synset('check.n.09'), Synset('check.n.10'), Synset('bridle.n.02'), Synset('check.n.12'), Synset('check.n.13'), Synset('check.v.01'), Synset('check.v.02'), Synset('see.v.10'), Synset('control.v.02'), Synset('check.v.05'), Synset('check.v.06'), Synset('check.v.07'), Synset('check.v.08'), Synset('match.v.01'), Synset('check.v.10'), Synset('discipline.v.01'), Synset('check.v.12'), Synset('check.v.13'), Synset('check.v.14'), Synset('check.v.15'), Synset('check.v.16'), Synset('check.v.17'), Synset('check.v.18'), Synset('check.v.19'), Synset('check.v.20'), Synset('determine.v.08'), Synset('check.v.22'), Synset('check.v.23'), Synset('check.v.24'), Synset('crack.v.01')], ('against', 1): [], ('database,', 1): [], ('identification', 1): [Synset('designation.n.03'), Synset('identification.n.02'), Synset('identification.n.03'), Synset('recognition.n.02'), Synset('identification.n.05')], ('records', 1): [Synset('record.n.01'), Synset('phonograph_record.n.01'), Synset('record.n.03'), Synset('record.n.04'), Synset('record.n.05'), Synset('record.n.06'), Synset('record.n.07'), Synset('criminal_record.n.01'), Synset('record.v.01'), Synset('record.v.02'), Synset('read.v.08'), Synset('record.v.04'), Synset('commemorate.v.03')], ('when', 1): [], ('finish', 1): [Synset('coating.n.02'), Synset('stopping_point.n.01'), Synset('polish.n.02'), Synset('finish.n.04'), Synset('finish.n.05'), Synset('finish.n.06'), Synset('ending.n.04'), Synset('finish.n.08'), Synset('finish.n.09'), Synset('complete.v.01'), Synset('finish_up.v.02'), Synset('end.v.01'), Synset('finish.v.04'), Synset('eat_up.v.01'), Synset('finish.v.06')], ('verification', 1): [Synset('confirmation.n.01'), Synset('verification.n.02')], ('process;', 1): [], ('answer', 1): [Synset('answer.n.01'), Synset('solution.n.02'), Synset('answer.n.03'), Synset('answer.n.04'), Synset('answer.n.05'), Synset('answer.v.01'), Synset('answer.v.02'), Synset('answer.v.03'), Synset('answer.v.04'), Synset('answer.v.05'), Synset('answer.v.06'), Synset('suffice.v.01'), Synset('answer.v.08'), Synset('answer.v.09'), Synset('answer.v.10')], ('series', 1): [Synset('series.n.01'), Synset('serial.n.01'), Synset('series.n.03'), Synset('series.n.04'), Synset('series.n.05'), Synset('series.n.06'), Synset('series.n.07')], ('knowledge-based', 1): [], ('challenge', 1): [Synset('challenge.n.01'), Synset('challenge.n.02'), Synset('challenge.n.03'), Synset('challenge.n.04'), Synset('challenge.n.05'), Synset('challenge.v.01'), Synset('challenge.v.02'), Synset('challenge.v.03'), Synset('challenge.v.04')], ('questions', 1): [Synset('question.n.01'), Synset('question.n.02'), Synset('question.n.03'), Synset('doubt.n.02'), Synset('motion.n.05'), Synset('question.n.06'), Synset('question.v.01'), Synset('interrogate.v.02'), Synset('question.v.03'), Synset('interview.v.01'), Synset('wonder.v.02')], ('would', 1): [], ('difficult', 1): [Synset('difficult.a.01'), Synset('unmanageable.a.02')], ('answer;', 1): [], ('verify', 1): [Synset('verify.v.01'), Synset('control.v.05'), Synset('verify.v.03'), Synset('affirm.v.02')], ('picture', 1): [Synset('picture.n.01'), Synset('painting.n.01'), Synset('mental_picture.n.01'), Synset('picture.n.04'), Synset('picture.n.05'), Synset('movie.n.01'), Synset('video.n.01'), Synset('word_picture.n.01'), Synset('picture.n.09'), Synset('photograph.n.01'), Synset('visualize.v.01'), Synset('picture.v.02')], ("driver's", 1): [], ('license', 1): [Synset('license.n.01'), Synset('license.n.02'), Synset('license.n.03'), Synset('license.n.04'), Synset('license.v.01')], ('then', 1): [Synset('then.n.01'), Synset('then.s.01'), Synset('then.r.01'), Synset('then.r.02'), Synset('then.r.03')], ('comparing', 1): [Synset('comparison.n.01'), Synset('compare.v.01'), Synset('compare.v.02'), Synset('compare.v.03'), Synset('compare.v.04')], ('second', 1): [Synset('second.n.01'), Synset('moment.n.02'), Synset('second_base.n.02'), Synset('moment.n.01'), Synset('second.n.05'), Synset('second.n.06'), Synset('second.n.07'), Synset('second.n.08'), Synset('second_gear.n.01'), Synset('irregular.n.02'), Synset('second.v.01'), Synset('second.v.02'), Synset('second.s.01'), Synset('second.a.02'), Synset('second.r.01')], ('parent,', 1): [], ('using', 1): [Synset('exploitation.n.02'), Synset('use.v.01'), Synset('use.v.02'), Synset('use.v.03'), Synset('use.v.04'), Synset('practice.v.04'), Synset('use.v.06')], ('facial', 1): [Synset('facial.n.01'), Synset('facial.n.02'), Synset('facial.a.01'), Synset('facial.a.02')], ('recognition', 1): [Synset('recognition.n.01'), Synset('recognition.n.02'), Synset('recognition.n.03'), Synset('realization.n.01'), Synset('recognition.n.05'), Synset('recognition.n.06'), Synset('recognition.n.07'), Synset('recognition.n.08')], ('technology.', 1): [], ('5:', 1): [], ('honor', 1): [Synset('award.n.02'), Synset('honor.n.02'), Synset('honor.n.03'), Synset('honor.n.04'), Synset('honor.v.01'), Synset('respect.v.02'), Synset('honor.v.03')], ('ongoing', 1): [Synset('ongoing.s.01')], ('rights', 1): [Synset('right.n.01'), Synset('right.n.02'), Synset('right_field.n.01'), Synset('right.n.04'), Synset('right.n.05'), Synset('right.n.06'), Synset('right.n.07'), Synset('right.n.08'), Synset('right.v.01'), Synset('right.v.02'), Synset('right.v.03'), Synset('correct.v.01')], ('respect', 1): [Synset('respect.n.01'), Synset('esteem.n.01'), Synset('respect.n.03'), Synset('deference.n.01'), Synset('obedience.n.03'), Synset('regard.n.06'), Synset('deference.n.02'), Synset('respect.v.01'), Synset('respect.v.02')], ('revoke', 1): [Synset('revoke.n.01'), Synset('revoke.v.01'), Synset('revoke.v.02')], ('6:', 1): [], ('implement', 1): [Synset('implement.n.01'), Synset('implement.v.01'), Synset('enforce.v.01'), Synset('follow_through.v.02')], ('protect', 1): [Synset('protect.v.01'), Synset('protect.v.02')], ('kids’', 1): [], ('ensure', 1): [Synset('guarantee.v.02'), Synset('see.v.10')], ('better', 1): [Synset('better.n.01'), Synset('bettor.n.01'), Synset('better.n.03'), Synset('better.n.04'), Synset('better.v.01'), Synset('better.v.02'), Synset('better.v.03'), Synset('better.a.01'), Synset('better.a.02'), Synset('better.s.03'), Synset('better.s.04'), Synset('good.a.01'), Synset('full.s.06'), Synset('good.a.03'), Synset('estimable.s.02'), Synset('beneficial.s.01'), Synset('good.s.06'), Synset('good.s.07'), Synset('adept.s.01'), Synset('good.s.09'), Synset('dear.s.02'), Synset('dependable.s.04'), Synset('good.s.12'), Synset('good.s.13'), Synset('effective.s.04'), Synset('good.s.15'), Synset('good.s.16'), Synset('good.s.17'), Synset('good.s.18'), Synset('good.s.19'), Synset('good.s.20'), Synset('good.s.21'), Synset('well.a.01'), Synset('good.s.13'), Synset('well.s.03'), Synset('better.r.01'), Synset('better.r.02'), Synset('well.r.01'), Synset('well.r.02'), Synset('well.r.03'), Synset('well.r.04'), Synset('well.r.05'), Synset('well.r.06'), Synset('well.r.07'), Synset('well.r.08'), Synset('well.r.09'), Synset('well.r.10'), Synset('well.r.11'), Synset('well.r.12'), Synset('well.r.13')], ('management', 1): [Synset('management.n.01'), Synset('management.n.02')], ('practices.', 1): [], ('minimize', 1): [Synset('minimize.v.01'), Synset('understate.v.01'), Synset('minimize.v.03')], ('what', 1): [], ('first', 1): [Synset('first.n.01'), Synset('first.n.02'), Synset('beginning.n.02'), Synset('first_base.n.02'), Synset('first.n.05'), Synset('first_gear.n.01'), Synset('first.a.01'), Synset('first.s.02'), Synset('inaugural.s.02'), Synset('beginning.s.01'), Synset('first.s.05'), Synset('first.a.06'), Synset('first.r.01'), Synset('first.r.02'), Synset('first.r.03'), Synset('foremost.r.01')], ('place.', 1): [], ('release', 1): [Synset('release.n.01'), Synset('liberation.n.01'), Synset('release.n.03'), Synset('handout.n.01'), Synset('dismissal.n.04'), Synset('passing.n.02'), Synset('acquittance.n.01'), Synset('release.n.08'), Synset('release.n.09'), Synset('spill.n.03'), Synset('release.n.11'), Synset('release.n.12'), Synset('let_go_of.v.01'), Synset('free.v.01'), Synset('turn.v.08'), Synset('publish.v.02'), Synset('exhaust.v.05'), Synset('secrete.v.01'), Synset('free.v.05'), Synset('release.v.08'), Synset('release.v.09'), Synset('unblock.v.03')], ('providers', 1): [Synset('supplier.n.01'), Synset('provider.n.02')], ('capable', 1): [Synset('capable.a.01'), Synset('capable.s.02'), Synset('capable.a.03'), Synset('adequate_to.s.01'), Synset('able.s.02')], ('maintaining', 1): [Synset('keep.v.01'), Synset('conserve.v.02'), Synset('sustain.v.04'), Synset('assert.v.01'), Synset('wield.v.01'), Synset('keep.v.20'), Synset('keep.v.08'), Synset('maintain.v.08'), Synset('uphold.v.03'), Synset('observe.v.08')], ('its', 1): [Synset('information_technology.n.01')], ('confidentiality,', 1): [], ('security,', 1): [], ('integrity.', 1): [], ('assurances', 1): [Synset('assurance.n.01'), Synset('assurance.n.02'), Synset('assurance.n.03'), Synset('assurance.n.04')], ('they’ll', 1): [], ('live', 1): [Synset('populate.v.01'), Synset('live.v.02'), Synset('survive.v.01'), Synset('exist.v.02'), Synset('be.v.11'), Synset('know.v.05'), Synset('live.v.07'), Synset('live.a.01'), Synset('live.a.02'), Synset('alive.a.01'), Synset('live.s.04'), Synset('live.s.05'), Synset('bouncy.s.01'), Synset('live.s.07'), Synset('live.s.08'), Synset('live.s.09'), Synset('hot.s.20'), Synset('alive.s.07'), Synset('live.r.01')], ('up', 1): [Synset('up.v.01'), Synset('up.a.01'), Synset('astir.s.01'), Synset('improving.s.01'), Synset('up.s.04'), Synset('up.s.05'), Synset('up.s.06'), Synset('up.s.07'), Synset('up.s.08'), Synset('up.r.01'), Synset('up.r.02'), Synset('up.r.03'), Synset('up.r.04'), Synset('up.r.05')], ('those', 1): [], ('responsibilities.', 1): [], ('hold', 1): [Synset('clasp.n.02'), Synset('appreciation.n.01'), Synset('hold.n.03'), Synset('delay.n.01'), Synset('detention.n.01'), Synset('hold.n.06'), Synset('hold.n.07'), Synset('handle.n.01'), Synset('cargo_area.n.01'), Synset('keep.v.01'), Synset('hold.v.02'), Synset('hold.v.03'), Synset('have.v.01'), Synset('deem.v.01'), Synset('harbor.v.01'), Synset('restrain.v.03'), Synset('retain.v.03'), Synset('bear.v.11'), Synset('hold.v.10'), Synset('hold.v.11'), Synset('accommodate.v.04'), Synset('hold.v.13'), Synset('hold.v.14'), Synset('prevail.v.02'), Synset('hold.v.16'), Synset('hold.v.17'), Synset('contain.v.05'), Synset('reserve.v.04'), Synset('defend.v.03'), Synset('oblige.v.02'), Synset('hold.v.22'), Synset('hold.v.23'), Synset('defy.v.01'), Synset('apply.v.02'), Synset('hold.v.26'), Synset('control.v.02'), Synset('hold.v.28'), Synset('hold.v.29'), Synset('halt.v.01'), Synset('hold.v.31'), Synset('carry.v.33'), Synset('hold.v.33'), Synset('declare.v.04'), Synset('agree.v.01'), Synset('hold.v.36')], ('on', 1): [Synset('on.a.01'), Synset('on.a.02'), Synset('along.r.01'), Synset('on.r.02'), Synset('on.r.03')], ('which', 1): [], ('was', 1): [Synset('washington.n.02'), Synset('be.v.01'), Synset('be.v.02'), Synset('be.v.03'), Synset('exist.v.01'), Synset('be.v.05'), Synset('equal.v.01'), Synset('constitute.v.01'), Synset('be.v.08'), Synset('embody.v.02'), Synset('be.v.10'), Synset('be.v.11'), Synset('be.v.12'), Synset('cost.v.01')], ('collected.', 1): [], ('securely', 1): [Synset('securely.r.01'), Synset('securely.r.02'), Synset('securely.r.03'), Synset('securely.r.04')], ('dispose', 1): [Synset('dispose.v.01'), Synset('discard.v.01'), Synset('dispose.v.03'), Synset('dispose.v.04'), Synset('qualify.v.04')], ('once', 1): [Synset('once.r.01'), Synset('once.r.02'), Synset('once.r.03')], ('no', 1): [Synset('no.n.01'), Synset('nobelium.n.01'), Synset('no.a.01'), Synset('no.r.01'), Synset('no.r.02'), Synset('no.r.03')], ('longer', 1): [Synset('longer.n.01'), Synset('long.a.01'), Synset('long.a.02'), Synset('long.s.03'), Synset('retentive.a.01'), Synset('long.a.05'), Synset('long.a.06'), Synset('long.s.07'), Synset('farseeing.s.02'), Synset('long.s.09'), Synset('longer.r.01')], ('have', 1): [Synset('rich_person.n.01'), Synset('have.v.01'), Synset('have.v.02'), Synset('experience.v.03'), Synset('own.v.01'), Synset('get.v.03'), Synset('consume.v.02'), Synset('have.v.07'), Synset('hold.v.03'), Synset('have.v.09'), Synset('have.v.10'), Synset('have.v.11'), Synset('have.v.12'), Synset('induce.v.02'), Synset('accept.v.02'), Synset('receive.v.01'), Synset('suffer.v.02'), Synset('have.v.17'), Synset('give_birth.v.01'), Synset('take.v.35')], ('legitimate', 1): [Synset('legalize.v.01'), Synset('legitimate.v.02'), Synset('legitimate.v.03'), Synset('legitimate.a.01'), Synset('legitimate.s.02'), Synset('legitimate.s.03'), Synset('lawful.s.04')], ('reason', 1): [Synset('reason.n.01'), Synset('reason.n.02'), Synset('reason.n.03'), Synset('rationality.n.01'), Synset('cause.n.02'), Synset('reason.n.06'), Synset('reason.v.01'), Synset('argue.v.01'), Synset('reason.v.03')], ('retaining', 1): [Synset('retain.v.01'), Synset('retain.v.02'), Synset('retain.v.03'), Synset('retain.v.04')], ('it.', 1): []}
