@@ -1,0 +1,406 @@
+# COPPA 6 Step Compliance Checklist
+
+
+
+> Where personal information has been defined as any of the following
+
+- [ ] full name;
+
+- [ ] home or other physical address, including street name and city or town;
+
+- [ ] online contact information like an email address or other identifier that permits someone to contact a person directly — for example, an IM identifier, VoIP identifier, or video chat identifier;
+
+- [ ] screen name or user name where it functions as online contact information;
+
+- [ ] telephone number;
+
+- [ ] Social Security number;
+
+- [ ] a persistent identifier that can be used to recognize a user over time and across different sites, including a cookie number, an IP address, a processor or device serial number, or a unique device identifier;
+
+- [ ] a photo, video, or audio file containing a child’s image or voice;
+
+- [ ] geolocation information sufficient to identify a street name and city or town; or
+
+- [ ] other information about the child or parent that is collected from the child and is combined with one of these identifiers.
+
+> Where data collection can be seen as any of the following
+
+- [ ] request, prompt, or encourage the submission of information, even if it’s optional;
+
+- [ ] let information be made publicly available (for example, with an open chat or posting function) unless you take reasonable measures to delete all or virtually all personal information before postings are public and delete all information from your records; or
+
+- [ ] passively track a child online.
+
+> To comply with COPPA, your privacy policy should be clear and easy to read. It must contain the following
+
+- [ ] A list of all operators collecting personal information.
+
+  - [ ] the types of personal information collected from children (for example, name, address, email address, hobbies, etc.);
+
+  - [ ] how the personal information is collected — directly from the child or passively, say, through cookies;
+
+  - [ ] how the personal information will be used (for example, for marketing to the child, notifying contest winners, or allowing the child to make information publicly available through a chat room); and
+
+  - [ ] whether you disclose personal information collected from kids to third parties. If you do, your privacy policy must list the types of businesses you disclose information to (for example, ad networks) and how they use the information.
+
+- [ ] A description of the personal information collected and how it’s used.
+
+- [ ] A description of parental rights.
+
+  - [ ] that you won’t require a child to disclose more information than is reasonably necessary to participate in an activity;
+
+  - [ ] that they can review their child’s personal information, direct you to delete it, and refuse to allow any further collection or use of the child’s information;
+
+  - [ ] that they can agree to the collection and use of their child’s information, but still not allow disclosure to third parties unless that’s part of the service (for example, social networking); and
+
+  - [ ] the procedures to follow to exercise their rights.
+
+
+
+- [ ] that you collected their online contact information for the purpose of getting their consent;
+
+- [ ] that you want to collect personal information from their child;
+
+- [ ] that their consent is required for the collection, use, and disclosure of the information;
+
+- [ ] the specific personal information you want to collect and how it might be disclosed to others;
+
+- [ ] a link to your online privacy policy;
+
+- [ ] how the parent can give their consent; and
+
+- [ ] that if the parent doesn’t consent within a reasonable time, you’ll delete the parent’s online contact information from your records.
+
+
+
+> 
+
+- [ ] sign a consent form and send it back to you via fax, mail, or electronic scan;
+
+- [ ] use a credit card, debit card, or other online payment system that provides notification of each separate transaction to the account holder;
+
+- [ ] call a toll-free number staffed by trained personnel;
+
+- [ ] connect to trained personnel via a video conference;
+
+- [ ] provide a copy of a form of government issued ID that you check against a database, as long as you delete the identification from your records when you finish the verification process;
+
+- [ ] answer a series of knowledge-based challenge questions that would be difficult for someone other than the parent to answer; or
+
+- [ ] verify a picture of a driver's license of other photo ID submitted by the parent and then comparing that photo to a second photo submitted by the parent, using facial recognition technology.
+
+- [ ] give them a way to review the personal information collected from their child;
+
+- [ ] give them a way to revoke their consent and refuse the further use or collection of personal information from their child; and
+
+- [ ] delete their child’s personal information.
+
+
+
+> Steps to ensure better data management practices.
+
+- [ ] Minimize what you collect in the first place. 
+
+- [ ] Take reasonable steps to release personal information only to service providers and third parties capable of maintaining its confidentiality, security, and integrity. 
+
+- [ ] Get assurances they’ll live up to those responsibilities. Hold on to personal information only as long as is reasonably necessary for the purpose for which it was collected. 
+
+- [ ] Securely dispose of it once you no longer have a legitimate reason for retaining it.
+
+Most frequent 1000 words [('the', 29), ('and', 19), ('we', 19), ('this', 17), ('of', 17), ('you', 17), ('use', 15), ('our', 15), ('that', 14), ('privacy', 13), ('information', 12), ('are', 12), ('in', 11), ('your', 11), ('is', 9), ('or', 9), ('us', 9), ('a', 8), ('service', 8), ('not', 8), ('may', 8), ('these', 8), ('policy', 7), ('as', 7), ('used', 7), ('on', 7), ('app', 6), ('for', 6), ('with', 6), ('personal', 6), ('if', 6), ('by', 5), ('service,', 5), ('collect', 5), ('will', 5), ('have', 5), ('third', 5), ('any', 5), ('no', 4), ('policy.', 4), ('be', 4), ('party', 4), ('data', 4), ('other', 4), ('from', 4), ('do', 4), ('provided', 3), ('at', 3), ('inform', 3), ('anyone', 3), ('service.', 3), ('services', 3), ('log', 3), ('cookies', 3), ('third-party', 3), ('information,', 3), ('sites', 3), ('under', 3), ('contact', 3), ('changes', 3), ('gamebra.in', 2), ('hocus', 2), ('page', 2), ('choose', 2), ('collection', 2), ('providing', 2), ('described', 2), ('terms', 2), ('provide', 2), ('personally', 2), ('identifiable', 2), ('information.', 2), ('does', 2), ('providers', 2), ('want', 2), ('case', 2), ('device', 2), ('when', 2), ('time', 2), ('sent', 2), ('“cookies”', 2), ('however,', 2), ('services.', 2), ('refuse', 2), ('able', 2), ('perform', 2), ('they', 2), ('method', 2), ('over', 2), ('links', 2), ('review', 2), ('6.', 2), ('child', 2), ('has', 2), ('immediately', 2), ('page.', 2), ('built', 1), ('freemium', 1), ('app.', 1), ('cost', 1), ('intended', 1), ('is.', 1), ('visitors', 1), ('regarding', 1), ('policies', 1), ('collection,', 1), ('use,', 1), ('disclosure', 1), ('decided', 1), ('then', 1), ('agree', 1), ('relation', 1), ('improving', 1), ('share', 1), ('except', 1), ('same', 1), ('meanings', 1), ('conditions,', 1), ('which', 1), ('accessible', 1), ('unless', 1), ('otherwise', 1), ('defined', 1), ('better', 1), ('experience,', 1), ('while', 1), ('using', 1), ('require', 1), ('certain', 1), ('request', 1), ('retained', 1), ('identify', 1), ('you.', 1), ('link', 1), ('google', 1), ('play', 1), ('whenever', 1), ('an', 1), ('error', 1), ('(through', 1), ('products)', 1), ('phone', 1), ('called', 1), ('data.', 1), ('include', 1), ('such', 1), ('internet', 1), ('protocol', 1), ('(“ip”)', 1), ('address,', 1), ('name,', 1), ('operating', 1), ('system', 1), ('version,', 1), ('configuration', 1), ('utilizing', 1), ('date', 1), ('statistics.', 1), ('files', 1), ('small', 1), ('amount', 1), ('commonly', 1), ('anonymous', 1), ('unique', 1), ('identifiers.', 1), ('browser', 1), ('websites', 1), ('visit', 1), ('stored', 1), ("device's", 1), ('internal', 1), ('memory.', 1), ('explicitly.', 1), ('code', 1), ('libraries', 1), ('improve', 1), ('their', 1), ('option', 1), ('either', 1), ('accept', 1), ('know', 1), ('cookie', 1), ('being', 1), ('device.', 1), ('cookies,', 1), ('some', 1), ('portions', 1), ('employ', 1), ('companies', 1), ('individuals', 1), ('due', 1), ('following', 1), ('reasons:', 1), ('facilitate', 1), ('service;', 1), ('behalf;', 1), ('service-related', 1), ('services;', 1), ('assist', 1), ('analyzing', 1), ('how', 1), ('used.', 1), ('users', 1), ('parties', 1), ('access', 1), ('reason', 1), ('tasks', 1), ('assigned', 1), ('them', 1), ('behalf.', 1), ('obligated', 1), ('disclose', 1), ('purpose.', 1), ('security', 1), ('value', 1), ('trust', 1), ('thus', 1), ('striving', 1), ('commercially', 1), ('acceptable', 1), ('means', 1), ('protecting', 1), ('it.', 1), ('but', 1), ('remember', 1), ('transmission', 1), ('internet,', 1), ('electronic', 1), ('storage', 1), ('100%', 1), ('secure', 1), ('reliable,', 1), ('cannot', 1), ('guarantee', 1), ('its', 1), ('absolute', 1), ('security.', 1), ('contain', 1), ('sites.', 1), ('click', 1), ('link,', 1), ('directed', 1), ('site.', 1), ('note', 1), ('external', 1), ('operated', 1), ('us.', 1), ('therefore,', 1), ('strongly', 1), ('advise', 1), ('websites.', 1), ('control', 1), ('assume', 1), ('responsibility', 1), ('content,', 1), ('policies,', 1), ('practices', 1), ('children’s', 1), ('address', 1), ('age', 1), ('knowingly', 1), ('children', 1), ('discover', 1), ('6', 1), ('delete', 1), ('servers.', 1), ('parent', 1), ('guardian', 1), ('aware', 1), ('please', 1), ('so', 1), ('necessary', 1), ('actions.', 1), ('update', 1), ('time.', 1), ('thus,', 1), ('advised', 1), ('periodically', 1), ('changes.', 1), ('notify', 1), ('posting', 1), ('new', 1), ('effective', 1), ('after', 1), ('posted', 1), ('questions', 1), ('suggestions', 1), ('about', 1), ('policy,', 1), ('hesitate', 1), ('info@gamebra.in.', 1)]
+to
+the
+and
+we
+this
+of
+you
+use
+our
+that
+privacy
+information
+are
+in
+your
+is
+or
+us
+a
+service
+not
+may
+these
+policy
+as
+used
+on
+app
+for
+with
+personal
+if
+by
+service,
+collect
+will
+have
+third
+any
+no
+policy.
+be
+party
+data
+other
+from
+do
+provided
+at
+inform
+anyone
+service.
+services
+log
+cookies
+third-party
+information,
+sites
+under
+contact
+changes
+gamebra.in
+hocus
+page
+choose
+collection
+providing
+described
+terms
+provide
+personally
+identifiable
+information.
+does
+providers
+want
+case
+device
+when
+time
+sent
+“cookies”
+however,
+services.
+refuse
+able
+perform
+they
+method
+over
+links
+review
+6.
+child
+has
+immediately
+page.
+built
+freemium
+app.
+cost
+intended
+is.
+visitors
+regarding
+policies
+collection,
+use,
+disclosure
+decided
+then
+agree
+relation
+improving
+share
+except
+same
+meanings
+conditions,
+which
+accessible
+unless
+otherwise
+defined
+better
+experience,
+while
+using
+require
+certain
+request
+retained
+identify
+you.
+link
+google
+play
+whenever
+an
+error
+(through
+products)
+phone
+called
+data.
+include
+such
+internet
+protocol
+(“ip”)
+address,
+name,
+operating
+system
+version,
+configuration
+utilizing
+date
+statistics.
+files
+small
+amount
+commonly
+anonymous
+unique
+identifiers.
+browser
+websites
+visit
+stored
+device's
+internal
+memory.
+explicitly.
+code
+libraries
+improve
+their
+option
+either
+accept
+know
+cookie
+being
+device.
+cookies,
+some
+portions
+employ
+companies
+individuals
+due
+following
+reasons:
+facilitate
+service;
+behalf;
+service-related
+services;
+assist
+analyzing
+how
+used.
+users
+parties
+access
+reason
+tasks
+assigned
+them
+behalf.
+obligated
+disclose
+purpose.
+security
+value
+trust
+thus
+striving
+commercially
+acceptable
+means
+protecting
+it.
+but
+remember
+transmission
+internet,
+electronic
+storage
+100%
+secure
+reliable,
+cannot
+guarantee
+its
+absolute
+security.
+contain
+sites.
+click
+link,
+directed
+site.
+note
+external
+operated
+us.
+therefore,
+strongly
+advise
+websites.
+control
+assume
+responsibility
+content,
+policies,
+practices
+children’s
+address
+age
+knowingly
+children
+discover
+6
+delete
+servers.
+parent
+guardian
+aware
+please
+so
+necessary
+actions.
+update
+time.
+thus,
+advised
+periodically
+changes.
+notify
+posting
+new
+effective
+after
+posted
+questions
+suggestions
+about
+policy,
+hesitate
+info@gamebra.in.
+a
+6
+Score for this policy: 2
