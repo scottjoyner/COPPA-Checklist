@@ -4,7 +4,7 @@ First run the setup script, which will allow you to download the required packag
 ```
 python3 setup.py
 ```
-To run the grader 
+To run the grader make sure to be in the main directory and run the following, if you don't have the nltk package downloaded feel free to use the setup script I made, or just run the application and it should autodownload the dependancy.
 ```
 python3 grade.py policies/PBS_Kids.txt    
 python3 grade.py policies/rvappstudios.txt

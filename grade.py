@@ -36,7 +36,7 @@ def main():
            record_word_cnt(line.strip().split(' '), bag_of_words)
            cnt += 1
    sorted_words = order_bag_of_words(bag_of_words, desc=True)
-   print("Most frequent 1000 words {}".format(sorted_words[1:]))
+   # print("Most frequent 1000 words {}".format(sorted_words[1:]))
    for word in sorted_words:
        print(word[0])
        bag_of_synsets[word] = wn.synsets(word[0])
