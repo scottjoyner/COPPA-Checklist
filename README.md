@@ -1,5 +1,12 @@
 # COPPA 6 Step Compliance Checklist
 
+<!-- repo-entrypoint-guide:start -->
+> **Reference use:** The checklist below is educational material, not a legal compliance determination. COPPA obligations and regulatory guidance can change; validate each item against the FTC's current rule and guidance and obtain qualified legal review when applying it to a real service.
+> 
+> **Practical workflow:** Document the audience assessment, data inventory, parental-consent design, deletion/access controls, vendor agreements, and evidence supporting each checked item.
+<!-- repo-entrypoint-guide:end -->
+
+
 ### Step 1: Determine if Your Company is a Website or Online Service that Collects Personal Information from Kids Under 13.
 > Where personal information has been defined as any of the following
 - [ ] full name;
